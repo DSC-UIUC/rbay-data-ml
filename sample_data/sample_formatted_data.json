@@ -1,0 +1,802 @@
+[
+    {
+        "Year": "Freshman",
+        "Major": "Linguistics, BALAS",
+        "GPA": 3.41,
+        "About Me": "I'm an undergraduate student at Georgia Tech's Scheller College of Business with a concentration in Information Technology Management and a minor in Computer Science through the Denning Technology & Management Program.",
+        "Research Interests": "Optogenetics",
+        "Technical Skills": "Restriction enzymes"
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Spanish, BALAS",
+        "GPA": 3.9,
+        "About Me": "I'm a third-year Industrial Design student from Georgia Tech with a desire to better the lives of others. With my passion for user-centered design, ethnography, and product development, I'm eager to design for social good.",
+        "Research Interests": "Cell-Cell Interactions",
+        "Technical Skills": "Medical Billing"
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Lyric Theatre, BMA",
+        "GPA": 2.82,
+        "About Me": "Spirited, dedicated student with excellent communication skills and substantial technical knowledge. Pursuing passions in Computer Science by working with machine intelligence, i.e. computer vision, machine learning, and NLP.",
+        "Research Interests": "Scientific computing",
+        "Technical Skills": "Forecasting"
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Art Education, BFA",
+        "GPA": 3.26,
+        "About Me": "Sanjit is the CEO and co-founder of Samsara, where he is focused on making it easier and more affordable for businesses to deploy sensors at a massive scale. Prior to Samsara, Sanjit was the CEO and co-founder of Meraki, one of the most successful networking companies of the past decade. Sanjit grew Meraki from his Ph.D. research into a complete enterprise networking portfolio, with cloud-based management that revolutionized the deployment of large networks. Meraki's sales doubled every year from inception, earning the company tens of thousands of customers. In 2012 Cisco acquired Meraki for $1.2 billion. Under his leadership, Cisco Meraki continued to grow at over 100%, making it one of Cisco's fastest-growing product lines in history.",
+        "Research Interests": "Enzymology",
+        "Technical Skills": "Blotting techniques Ex: Western Blot"
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Individual Plans of Study, BALAS/BSLAS",
+        "GPA": 2.96,
+        "About Me": "Hi! I am a junior at Yale passionate about building things, solving logical puzzles, questioning defaults, and changing definitions. I'm returning to Google this coming summer as a software engineering intern in the Research and Machine Intelligence division. I'm excited to be on an adventure of ceaseless learning, as I explore boundaries of technology and craft impactful products to better the world.",
+        "Research Interests": "Bioinformatics and computational biology",
+        "Technical Skills": "Troubleshooting"
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Teaching of Latin, BA",
+        "GPA": 3.7,
+        "About Me": "Majoring in Computer Science, minoring in Mathematics and Economics",
+        "Research Interests": "Ion Channels",
+        "Technical Skills": "Swift"
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Agricultural & Biological Engineering, BS and Agricultural & Biological Engineering, BSAG (Dual Degree Program)",
+        "GPA": 2.57,
+        "About Me": "Majoring in Computer Science, minoring in Mathematics and Economics",
+        "Research Interests": "Cell-Cell Interactions",
+        "Technical Skills": "Calculus"
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Agricultural Leadership, Education, & Communications, BS",
+        "GPA": 2.99,
+        "About Me": "Jenny specializes in Software Development and is passionate about creating impactful products accompanied by seamless user experiences. She is constantly seeking new challenges within the tech industry and actively thinking about the products that will solve them.",
+        "Research Interests": "Signal Transduction",
+        "Technical Skills": "Wireless Modems/Routers"
+    },
+    {
+        "Year": "Junior",
+        "Major": "Agricultural Communications, BS",
+        "GPA": 2.65,
+        "About Me": "Email: samjain0913@gmail.com, sjain395@gatech.edu\nGitHub: github.com/sjain0913\nPhone: 4703631437",
+        "Research Interests": "Reproductive Biology",
+        "Technical Skills": "Quantitative Reports"
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Teaching of Biology, BSLAS",
+        "GPA": 3.85,
+        "About Me": "I'm a third-year Industrial Design student from Georgia Tech with a desire to better the lives of others. With my passion for user-centered design, ethnography, and product development, I'm eager to design for social good.",
+        "Research Interests": "Computational Biology",
+        "Technical Skills": "Mammalian cell culture"
+    },
+    {
+        "Year": "Senior",
+        "Major": "Theatre, BFA",
+        "GPA": 2.68,
+        "About Me": "Junior majoring in Electrical and Computer Engineering at Cornell University. Feel free to contact my email at as2756@cornell.edu.",
+        "Research Interests": "Protein Synthesis",
+        "Technical Skills": "Molecular Biology"
+    },
+    {
+        "Year": "Junior",
+        "Major": "Studio Art, BFASA",
+        "GPA": 3.44,
+        "About Me": "Jenny Xu is currently pursuing her Bachelor's in Computer Science and Applied Math at Stony Brook University. She recently developed various coding projects, one being a Node.js website with use of MongoDB, Vue.js, Python and D3.",
+        "Research Interests": "Ion Channels",
+        "Technical Skills": "Molecular cloning"
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Aerospace Engineering, BS and Engineering: Energy Systems, MEng",
+        "GPA": 3.9,
+        "About Me": "focusing \ud83c\udf03",
+        "Research Interests": "Programming languages, formal methods, and software engineering",
+        "Technical Skills": "Molecular Biology"
+    },
+    {
+        "Year": "Junior",
+        "Major": "Computer Science & Crop Sciences, BS",
+        "GPA": 2.79,
+        "About Me": "I'm a Junior at UIUC majoring in Computer Science, interested in startups, venture capital and exploring problems pertaining to Infrastructure, Distributed Systems, Machine Learning and Back-end development.",
+        "Research Interests": "Enzymology",
+        "Technical Skills": "Documentation"
+    },
+    {
+        "Year": "Senior",
+        "Major": "Chemical Engineering, BS",
+        "GPA": 2.55,
+        "About Me": "Senior at the University of Illinois at Urbana-Champaign studying Computer Science. Passionate about bringing change through technology and innovation and bridging the gender divide in tech. Interested in Artificial Intelligence, Machine Learning, Full Stack Development, Mobile Development and Virtual Reality.",
+        "Research Interests": "Synaptic Transmission",
+        "Technical Skills": "PCR ( Polymerase Chain Reaction) machines"
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Global Studies, BALAS",
+        "GPA": 2.44,
+        "About Me": "CS @ UIUC 2021",
+        "Research Interests": "Interactive computing",
+        "Technical Skills": "HTML"
+    },
+    {
+        "Year": "Freshman",
+        "Major": "German (Teaching), BA",
+        "GPA": 3.6,
+        "About Me": "I'm studying computer science at the University of Illinois at Urbana-Champaign, expecting to graduate in 2021.",
+        "Research Interests": "Optogenetics",
+        "Technical Skills": "Agarose Gel Electrophoresis"
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Computer Science & Music, BS",
+        "GPA": 2.8,
+        "About Me": "Hi, I'm Kashyap! I'm absolutely loving CS at Georgia Tech, and I'm graduating in May 2019. My focuses are on Artificial Intelligence and Human-Computer Interaction. I'm a former SDE intern at Amazon for Summer 2018. Check me out at https://kashyappatel.tech",
+        "Research Interests": "Imaging",
+        "Technical Skills": "Big Data"
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Chemical Engineering, BS",
+        "GPA": 3.0,
+        "About Me": "I'm a Junior at UIUC majoring in Computer Science, interested in startups, venture capital and exploring problems pertaining to Infrastructure, Distributed Systems, Machine Learning and Back-end development.",
+        "Research Interests": "Artificial intelligence",
+        "Technical Skills": "Statistics"
+    },
+    {
+        "Year": "Junior",
+        "Major": "Agricultural & Biological Engineering, BS and Agricultural & Biological Engineering, BSAG (Dual Degree Program)",
+        "GPA": 2.59,
+        "About Me": "I am currently a student at University of Illinois at Urbana-Champaign pursing a B.S. in Computer Science, College of Engineering.",
+        "Research Interests": "Bioinformatics and computational biology",
+        "Technical Skills": "PowerPoint"
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Integrative Biology, BSLAS",
+        "GPA": 2.66,
+        "About Me": "https://github.com/michaellee4",
+        "Research Interests": "Systems and networking",
+        "Technical Skills": "Structural Analysis"
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Materials Science & Engineering, BS and Materials Engineering, MEng",
+        "GPA": 2.63,
+        "About Me": "Aspiring computer engineer attending the University of Illinois. Skilled programmer, researcher, and project manager. Hopes to pursue a career in machine learning and cybernetics.",
+        "Research Interests": "Bioenergetics and Photosynthesis",
+        "Technical Skills": "Integration testing"
+    },
+    {
+        "Year": "Senior",
+        "Major": "Economics, BALAS",
+        "GPA": 2.88,
+        "About Me": "I am currently an undergraduate at Georgia Tech studying computer science. My experience includes mobile and web application development, and machine learning. I am looking to continue to gain further experience in machine learning/artificial intelligence projects.",
+        "Research Interests": "Development",
+        "Technical Skills": "Cloud/SaaS Services"
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Comparative Literature, BALAS",
+        "GPA": 2.98,
+        "About Me": "Experienced Research And Development Scientist with a demonstrated history of working in the renewables and environment industry. Strong research professional with a Master of Science (M.S.) focused in Chemical Engineering from Northeastern University.",
+        "Research Interests": "Cytoskeleton",
+        "Technical Skills": "PCR ( Polymerase Chain Reaction) machines"
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Physics, BSLAS (Science & Letters)",
+        "GPA": 2.63,
+        "About Me": "Back in 6th grade, we were shown a horrifying and overly dramatic documentary about how the world is going to die and no birds will sing in 70 years. Upon calculation, I realized that I might still be alive then. This earth shattering conclusion set me down a dark windy road that I'm still trying to figure out.",
+        "Research Interests": "Chromatin Structure",
+        "Technical Skills": "Antibody testing methods"
+    },
+    {
+        "Year": "Junior",
+        "Major": "Biology Teacher Education, BSLAS",
+        "GPA": 3.56,
+        "About Me": "Currently, I serve as the secretary of the UIUC Chapter of ACM, the Association for Computing Machinery, which is the largest student chapter in the nation. I'm involved with helping plan events such as Engineering Open House and Reflections|Projections, which are large scale annual events at the university. I also conduct research on the optimization of algorithms in different environments (CPUs vs GPUs), examining the effects on parallel programming on the program's execution. As a consultant at OTCR consulting, I work with talented students analyzing the business and tech strategy of clients. I've formerly held positions as course staff for Software Design Studio and Computer Architecture working with students in code reviews, lab and discussion sections, and office hours.",
+        "Research Interests": "Reproductive Biology",
+        "Technical Skills": "Swift"
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Journalism, BS-MJ",
+        "GPA": 3.05,
+        "About Me": "What I enjoy most about Software Engineering is the opportunity to turn ideas into optimized, tangible products that help people work, operate, and live. This passion to create has led me to Software Development and teaching roles where I have been able to further my abilities to problem solve, share knowledge, and create solutions.",
+        "Research Interests": "Genomics",
+        "Technical Skills": "CSS"
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Computer Engineering, BS",
+        "GPA": 3.46,
+        "About Me": "Commitment to leadership and being influential in a community are both very important to me. Through research, volunteering, a full-ride merit scholarship student and holding a variety of executive positions on campus, I hope to improve and challenge myself, to be introduced to new perspectives, to gain rewarding experiences and exposure, and to help make wherever I am a little better for a lot of people.",
+        "Research Interests": "Regulation of Gene Expression",
+        "Technical Skills": "AJAX"
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Music Education, BME",
+        "GPA": 3.18,
+        "About Me": "Junior at Duke University majoring in Computer Science and minoring in Chinese and Sociology. I am looking to build impactful products in a fast-paced, collaborative environment as a software engineer after graduation. I am particularly interested in education, AI and anything that involves the sharing economy (Airbnb-, Uber-style products). In addition, I am fascinated by companies that are looking to modernize archaic industries that are in desperate need of technological revamping (e.g. real estate, international shipping). Check out my GitHub at https://github.com/yupjpn!",
+        "Research Interests": "Genomics",
+        "Technical Skills": "Mechanical Maintenance"
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Mathematics & Computer Science, BSLAS",
+        "GPA": 3.38,
+        "About Me": "Jenny Xu is currently pursuing her Bachelor's in Computer Science and Applied Math at Stony Brook University. She recently developed various coding projects, one being a Node.js website with use of MongoDB, Vue.js, Python and D3.",
+        "Research Interests": "Pattern Formation",
+        "Technical Skills": "Cloud Systems Administration"
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Physics, BS (LAS -Specialized Curriculum)",
+        "GPA": 2.33,
+        "About Me": "Experienced Research And Development Scientist with a demonstrated history of working in the renewables and environment industry. Strong research professional with a Master of Science (M.S.) focused in Chemical Engineering from Northeastern University.",
+        "Research Interests": "Computers and education",
+        "Technical Skills": "Client-server architecture"
+    },
+    {
+        "Year": "Senior",
+        "Major": "Spanish, BALAS",
+        "GPA": 3.42,
+        "About Me": "You can contact me at milojkovic.ema@gmail.com!",
+        "Research Interests": "Reproductive Biology",
+        "Technical Skills": "Hardware Description Language (HDL)"
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Spanish (Teaching), BA",
+        "GPA": 3.23,
+        "About Me": "Junior majoring in Electrical and Computer Engineering at Cornell University. Feel free to contact my email at as2756@cornell.edu.",
+        "Research Interests": "Scientific computing",
+        "Technical Skills": "Blueprint Design"
+    },
+    {
+        "Year": "Junior",
+        "Major": "Geology, BS",
+        "GPA": 2.44,
+        "About Me": "Hey there. I am a third-year student studying Computer Science at UC Irvine who loves to find new and creative ways to solve problems and plan to use that passion to develop in the technology industry once I finish school.",
+        "Research Interests": "Endocrinology",
+        "Technical Skills": "Microsoft Office Certifications"
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Computer Science, BS",
+        "GPA": 3.34,
+        "About Me": "I'm passionate about computer engineering. I've earned extensive industry experience in both software and hardware, helping manage projects and develop new technologies for cutting edge VR and AR hardware and content. I've published educational VR software on Steam, and have knowledge of VR best practices, industry standards, and good design. In addition, I've expanded to work on brand-new real-time machine learning technologies, experimental frameworks for mobile and web development, and embedded hardware development. I'm a positive team member, a good collaborator, and a dedicated worker.",
+        "Research Interests": "Biofuels",
+        "Technical Skills": "Functionality"
+    },
+    {
+        "Year": "Junior",
+        "Major": "Animal Sciences, BS",
+        "GPA": 3.44,
+        "About Me": "Currently a junior at Colgate University, studying computer science and mathematical economics. Interested in software engineering and data science.",
+        "Research Interests": "Regulation of Gene Expression",
+        "Technical Skills": "R"
+    },
+    {
+        "Year": "Senior",
+        "Major": "Agricultural & Biological Engineering, BS",
+        "GPA": 3.81,
+        "About Me": "Email: samjain0913@gmail.com, sjain395@gatech.edu\nGitHub: github.com/sjain0913\nPhone: 4703631437",
+        "Research Interests": "Learning and Memory",
+        "Technical Skills": "JavaScript"
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Technical Systems Management, BS",
+        "GPA": 2.41,
+        "About Me": "I am a Statistics & Computer Science major at University of Illinois at Urbana-Champaign.",
+        "Research Interests": "Protein Synthesis",
+        "Technical Skills": "Encryption"
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Engineering Physics, BS",
+        "GPA": 2.51,
+        "About Me": "Background in Computer Science and Statistics.",
+        "Research Interests": "Microbial Ecology",
+        "Technical Skills": "Cyber Security"
+    },
+    {
+        "Year": "Junior",
+        "Major": "Art Education, BFA",
+        "GPA": 3.07,
+        "About Me": "Hello! My name is Ricky Woodruff, and I am a sophomore Computer Science student at the University of Texas at Austin. Over the summer, I had the opportunity of taking classes at Stanford University where I was able to get an introduction to Artificial Intelligence, learn about responsive Client-Side Web Development, and gain insight into Silicon Valley's entrepreneurial realm.",
+        "Research Interests": "Archaea",
+        "Technical Skills": "Functionality"
+    },
+    {
+        "Year": "Senior",
+        "Major": "Marketing, BS",
+        "GPA": 2.37,
+        "About Me": "I am currently a 3rd year at Georgia Tech pursuing my BS in Computer Science, with a focus in People and Intelligence. I am looking to gain more technical and professional experience to grow in the industry.",
+        "Research Interests": "Computers and education",
+        "Technical Skills": "Medical"
+    },
+    {
+        "Year": "Senior",
+        "Major": "Physics, BSLAS (Science & Letters)",
+        "GPA": 2.92,
+        "About Me": "Here's what I've been up to:\n-------------------------------\n* SacHacks 2018 { 11/28/18 }\n* SB Hacks 2019 { 01/11/19 }\n* CruzHacks 2019 { 01/18/19 }\n* LinkedIn Accelerate U { 02/02/19 }\n* Honored at Golden 1 Center for Hackathon Project { 02/10/19 }\n* Capital One Ignite { 03/02/19 }\n* NSBE's 45th Annual Convention { 03/25/19 }\n* Bank of America's Ignite with STEM Forum { 04/01/19 }\n* Twitter #TechProud19 { 06/07/19 }\n* Capital One Engineering Summit { 08/04/19 }\n* Tapia Diversity in Computing Conference { 09/18/19 }\n* Forbes Under 30 Summit { 10/27/19 }",
+        "Research Interests": "Computational Biology",
+        "Technical Skills": "Cryptography"
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Advertising, BS",
+        "GPA": 3.34,
+        "About Me": "Undergraduate at Cornell University studying Policy Analysis & Management, Business, and Resource & Environmental Economics.",
+        "Research Interests": "Bioinformatics and computational biology",
+        "Technical Skills": "UV/Vis spectrophotometry"
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Technical Systems Management, BS",
+        "GPA": 3.19,
+        "About Me": "I am an extremely motivated and dedicated Computer Engineering student at the University of Illinois at Urbana-Champaign with a passion for technology an specialization in the fields of Machine Learning and Algorithms. I am always open to novel and ambitious opportunities.",
+        "Research Interests": "Database and information systems",
+        "Technical Skills": "Systems engineering"
+    },
+    {
+        "Year": "Junior",
+        "Major": "Engineering Physics, BS and Engineering: Energy Systems, MEng",
+        "GPA": 2.5,
+        "About Me": "Within technology roles, I have the most experience with backend development, full stack we... see more",
+        "Research Interests": "Toxins",
+        "Technical Skills": "PCR ( Polymerase Chain Reaction) machines"
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Crop Sciences, BS",
+        "GPA": 2.44,
+        "About Me": "Here's what I've been up to:\n-------------------------------\n* SacHacks 2018 { 11/28/18 }\n* SB Hacks 2019 { 01/11/19 }\n* CruzHacks 2019 { 01/18/19 }\n* LinkedIn Accelerate U { 02/02/19 }\n* Honored at Golden 1 Center for Hackathon Project { 02/10/19 }\n* Capital One Ignite { 03/02/19 }\n* NSBE's 45th Annual Convention { 03/25/19 }\n* Bank of America's Ignite with STEM Forum { 04/01/19 }\n* Twitter #TechProud19 { 06/07/19 }\n* Capital One Engineering Summit { 08/04/19 }\n* Tapia Diversity in Computing Conference { 09/18/19 }\n* Forbes Under 30 Summit { 10/27/19 }",
+        "Research Interests": "Development",
+        "Technical Skills": "Encryption"
+    },
+    {
+        "Year": "Senior",
+        "Major": "Geography & Geographic Information Science, BALAS",
+        "GPA": 2.48,
+        "About Me": "Let's chat! Email: sherry.hu@duke.edu",
+        "Research Interests": "Cytoskeleton",
+        "Technical Skills": "Client-server architecture"
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Early Childhood Education, BS",
+        "GPA": 2.95,
+        "About Me": "I am student at the University of Illinois studying Computer Science. I have a passion for software development and financial markets. I am constantly looking to explore different areas of technology to better my skills and understanding of computer science.",
+        "Research Interests": "Neurobiology",
+        "Technical Skills": "Agarose Gel Electrophoresis"
+    },
+    {
+        "Year": "Senior",
+        "Major": "Aerospace Engineering, BS-MS",
+        "GPA": 3.96,
+        "About Me": "I am a sophomore at the Georgia Institute of Technology majoring in Computer Science with concentrations in Devices and Intelligence looking for Software Engineering Internship roles for Summer 2020.\nMost recently I have started working on a research project - Sensornets. I am working on making a scalable wireless network using TI-MSP432 boards and collecting audio and vibration data for processing in a football stadium.\nI am confident that my background and technical skills combined with my strong work ethic are the best fit for the needs of a Software Engineering Internship role.",
+        "Research Interests": "Theory and algorithms",
+        "Technical Skills": "Statistical analysis"
+    },
+    {
+        "Year": "Senior",
+        "Major": "",
+        "GPA": 3.09,
+        "About Me": "I'm passionate about computer engineering. I've earned extensive industry experience in both software and hardware, helping manage projects and develop new technologies for cutting edge VR and AR hardware and content. I've published educational VR software on Steam, and have knowledge of VR best practices, industry standards, and good design. In addition, I've expanded to work on brand-new real-time machine learning technologies, experimental frameworks for mobile and web development, and embedded hardware development. I'm a positive team member, a good collaborator, and a dedicated worker.",
+        "Research Interests": "Ion Channels",
+        "Technical Skills": "Video Creation"
+    },
+    {
+        "Year": "Junior",
+        "Major": "Lyric Theatre, BMA",
+        "GPA": 2.31,
+        "About Me": "I am a junior majoring in Computer Science at University of Michigan.",
+        "Research Interests": "Toxins",
+        "Technical Skills": "C++"
+    },
+    {
+        "Year": "Junior",
+        "Major": "Sociology, BALAS",
+        "GPA": 2.4,
+        "About Me": "People don't know what they want until you show it to them.",
+        "Research Interests": "Receptor Biochemistry",
+        "Technical Skills": "JavaScript"
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Electrical Engineering, BS",
+        "GPA": 2.81,
+        "About Me": "Background in Computer Science and Statistics.",
+        "Research Interests": "Genetics",
+        "Technical Skills": "Cell fractionation"
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Mechanical Engineering, BS",
+        "GPA": 3.87,
+        "About Me": "Hello! My name is Jen and I am an engineer and artist. I am always looking for opportunities to integrate technology with my creative skillset. I am passionate about how we can leverage technology for sustainable causes, frontend development, and open source software.",
+        "Research Interests": "Virology",
+        "Technical Skills": "scanning electron microscopy"
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Communication, BALAS",
+        "GPA": 3.72,
+        "About Me": "Within technology roles, I have the most experience with backend development, full stack we... see more",
+        "Research Interests": "Computational Biology",
+        "Technical Skills": "PHP"
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Natural Resources & Environmental Sciences, BS",
+        "GPA": 3.77,
+        "About Me": "I am an undergraduate at the University of Illinois pursuing a Bachelor of Science in Computer Science.",
+        "Research Interests": "Molecular Immunology",
+        "Technical Skills": "R"
+    },
+    {
+        "Year": "Senior",
+        "Major": "Systems Engineering & Design, BS",
+        "GPA": 3.85,
+        "About Me": "I am a senior at The Ohio State University pursuing Computer Science and Engineering. During my last software engineering internship, I enjoyed learning about the process of product development. Through my academic and industry research experiences, I have also learned to appreciate tackling the challenges of research. I hope to continue exploring a career that intersects both of these areas. I will be graduating in December 2020.",
+        "Research Interests": "Protein-Nucleic Acid Interactions",
+        "Technical Skills": "Quantitative Research"
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Media & Cinema Studies, BS",
+        "GPA": 2.38,
+        "About Me": "To me, computer science is a medium through which I can integrate my ideas into the real world. I love working on projects targeted towards a real-world problem. To pursue these passions, I teach myself new languages and technologies to be able to come up with new solutions. I have worked with both mobile and web development using Java, Node, SQL, C++, and many other tools.",
+        "Research Interests": "Development",
+        "Technical Skills": "Ruby"
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Kinesiology, BS",
+        "GPA": 2.38,
+        "About Me": "Currently, I serve as the secretary of the UIUC Chapter of ACM, the Association for Computing Machinery, which is the largest student chapter in the nation. I'm involved with helping plan events such as Engineering Open House and Reflections|Projections, which are large scale annual events at the university. I also conduct research on the optimization of algorithms in different environments (CPUs vs GPUs), examining the effects on parallel programming on the program's execution. As a consultant at OTCR consulting, I work with talented students analyzing the business and tech strategy of clients. I've formerly held positions as course staff for Software Design Studio and Computer Architecture working with students in code reviews, lab and discussion sections, and office hours.",
+        "Research Interests": "Bioenergetics and Photosynthesis",
+        "Technical Skills": "Python"
+    },
+    {
+        "Year": "Senior",
+        "Major": "Accountancy, BS",
+        "GPA": 3.06,
+        "About Me": "Contact: priyaarya@gatech.edu",
+        "Research Interests": "Bioinformatics",
+        "Technical Skills": "CSS"
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Special Education, BS",
+        "GPA": 2.59,
+        "About Me": "Hello, my name is Anaya Patel and I am a 2nd year at Georgia Tech. I am majoring in Computer Science with concentrations in human-computer interaction and intelligence. I have front-end experience through my internship with Cerner Corporation and am looking for a software engineering internship for summer 2020. I am a dedicated worker who loves to learn and problem solve, and if you have any questions please don't hesitate to email me at apatel672@gatech.edu. Thank you!",
+        "Research Interests": "Genetics",
+        "Technical Skills": "Compiling Statistics"
+    },
+    {
+        "Year": "Senior",
+        "Major": "Systems Engineering & Design, BS",
+        "GPA": 3.54,
+        "About Me": "I am currently a computer science student at the University of Michigan, Ann Arbor.",
+        "Research Interests": "Drug Discovery",
+        "Technical Skills": "Data Analytics"
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Graphic Design, BFA",
+        "GPA": 2.53,
+        "About Me": "What I enjoy most about Software Engineering is the opportunity to turn ideas into optimized, tangible products that help people work, operate, and live. This passion to create has led me to Software Development and teaching roles where I have been able to further my abilities to problem solve, share knowledge, and create solutions.",
+        "Research Interests": "RNA Biology",
+        "Technical Skills": "Structural Analysis"
+    },
+    {
+        "Year": "Junior",
+        "Major": "Music Composition, BMUS",
+        "GPA": 3.15,
+        "About Me": "https://github.com/michaellee4",
+        "Research Interests": "Microbial Ecology",
+        "Technical Skills": "Operating systems"
+    },
+    {
+        "Year": "Senior",
+        "Major": "English, BALAS",
+        "GPA": 2.38,
+        "About Me": "Hi, I'm Kashyap! I'm absolutely loving CS at Georgia Tech, and I'm graduating in May 2019. My focuses are on Artificial Intelligence and Human-Computer Interaction. I'm a former SDE intern at Amazon for Summer 2018. Check me out at https://kashyappatel.tech",
+        "Research Interests": "Molecular Evolution ",
+        "Technical Skills": "AJAX"
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Agricultural & Consumer Economics, BS and Agricultural & Applied Economics, MAAE",
+        "GPA": 3.72,
+        "About Me": "That was it, that was when I went ahead with studying Computer Science. Every project I work on is an emotional roller coaster which is why I enjoy it because it keeps me engaged. The best moments are when I fall asleep thinking of bugs in my code and wake up with a possible solutions.",
+        "Research Interests": "Development",
+        "Technical Skills": "Hardware Verification Tools and Techniques"
+    },
+    {
+        "Year": "Senior",
+        "Major": "Learning & Education Studies, BS",
+        "GPA": 3.11,
+        "About Me": "Pursuing a B.S. in Computer Science at the University of Illinois at Urbana-Champaign",
+        "Research Interests": "Archaea",
+        "Technical Skills": "Client-server architecture"
+    },
+    {
+        "Year": "Senior",
+        "Major": "Lyric Theatre, BMA",
+        "GPA": 2.74,
+        "About Me": "Background in Computer Science and Statistics.",
+        "Research Interests": "Host-Pathogen Interactions",
+        "Technical Skills": "Research"
+    },
+    {
+        "Year": "Senior",
+        "Major": "Astronomy, BSLAS",
+        "GPA": 3.83,
+        "About Me": "I am looking for a software development/data science internship where I can continue to pursue my passions, improve my skills, and make a significant impact.",
+        "Research Interests": "Imaging",
+        "Technical Skills": "Integration testing"
+    },
+    {
+        "Year": "Freshman",
+        "Major": "English, BALAS",
+        "GPA": 3.43,
+        "About Me": "I am a second-year computer science major at Caltech. A few of my interests are systems programming, computer science theory, and machine learning. I'm interested in opportunities to challenge myself and work on interesting problems.",
+        "Research Interests": "Biofuels",
+        "Technical Skills": "Growth of competent cells"
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Comparative Literature, BALAS",
+        "GPA": 2.39,
+        "About Me": "Feel free to email me at aashia@umich.edu if you would like to learn more about me!",
+        "Research Interests": "Cell-Matrix Interactions",
+        "Technical Skills": "Planning"
+    },
+    {
+        "Year": "Junior",
+        "Major": "Accountancy, BS",
+        "GPA": 2.98,
+        "About Me": "As a consistent member of the Dean\u2019s Honor List, I represent the top 10% of my class. Some of my past experiences involve policy implementation, sales, and human capital management. I am specifically interested in the topics of Public Health, Nutrition, and Behavioral Change, and I look to bring my creativity as well as my ambition to any workplace setting.",
+        "Research Interests": "Enzymology",
+        "Technical Skills": "Polyacrylamide Gel Electrophoresis"
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Innovation, Leadership & Engineering Entrepreneurship, BS (ILEE)",
+        "GPA": 3.89,
+        "About Me": "Sophomore studying Computer Science at the University of Illinois. Passionate at tech, community, design, and marketing.",
+        "Research Interests": "Bioinformatics and computational biology",
+        "Technical Skills": "Cell fractionation"
+    },
+    {
+        "Year": "Senior",
+        "Major": "Engineering Physics, BS and Engineering: Energy Systems, MEng",
+        "GPA": 2.67,
+        "About Me": "Third year Chemical Engineering student with a minor in Computer Science and experience in business and financial analytics, consulting, and startups.",
+        "Research Interests": "Systems and networking",
+        "Technical Skills": "System testing"
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Teaching of Spanish, BA",
+        "GPA": 3.89,
+        "About Me": "I am energized about energy, passionate about processes, and captivated by chemistry. I study chemical engineering at Cornell University, and I hope to one day work in the energy or chemical processing fields. I also study Mandarin because technological solutions require global cooperation. Further, a one-size-fits-all approach cannot be used for a global chemical or energy market. I am minoring in China and Asian Pacific Studies so that I am prepared to apply technologies across the two largest markets, the United States and China.",
+        "Research Interests": "Protein Structure",
+        "Technical Skills": "Medical Coding"
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Industrial Engineering, BS-MS",
+        "GPA": 3.59,
+        "About Me": "I'm a Junior at UIUC majoring in Computer Science, interested in startups, venture capital and exploring problems pertaining to Infrastructure, Distributed Systems, Machine Learning and Back-end development.",
+        "Research Interests": "Learning and Memory",
+        "Technical Skills": "Microbiology"
+    },
+    {
+        "Year": "Junior",
+        "Major": "Materials Science & Engineering, BS-MS",
+        "GPA": 2.77,
+        "About Me": "I am currently an undergraduate student at the University of Illinois studying Computer Engineering and I possess experience in technologies such as C/C++, Python, SQL, HTML, CSS, and Java.",
+        "Research Interests": "Membrane Biology",
+        "Technical Skills": "XML"
+    },
+    {
+        "Year": "Senior",
+        "Major": "Computer Science, BS-MCS",
+        "GPA": 2.82,
+        "About Me": "Hi! My name is Ayusha, and I am pursuing a degree in Computer Science at the University of Illinois at Urbana-Champaign. I am particularly interested in UI/UX, app development, and product management and am excited about working with technology that bridges the gap between humans and machines.",
+        "Research Interests": "Glycobiology",
+        "Technical Skills": "JavaScript"
+    },
+    {
+        "Year": "Junior",
+        "Major": "Crop Sciences, BS",
+        "GPA": 2.79,
+        "About Me": "Hello! My name is Ricky Woodruff, and I am a sophomore Computer Science student at the University of Texas at Austin. Over the summer, I had the opportunity of taking classes at Stanford University where I was able to get an introduction to Artificial Intelligence, learn about responsive Client-Side Web Development, and gain insight into Silicon Valley's entrepreneurial realm.",
+        "Research Interests": "Neurobiology",
+        "Technical Skills": "gel documentation"
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Industrial Engineering, BS",
+        "GPA": 3.14,
+        "About Me": "As a consistent member of the Dean\u2019s Honor List, I represent the top 10% of my class. Some of my past experiences involve policy implementation, sales, and human capital management. I am specifically interested in the topics of Public Health, Nutrition, and Behavioral Change, and I look to bring my creativity as well as my ambition to any workplace setting.",
+        "Research Interests": "Database and information systems",
+        "Technical Skills": "Requirements-gathering."
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Nuclear, Plasma, & Radiological Engineering, BS",
+        "GPA": 3.94,
+        "About Me": "The ever-expanding world of Computer Science never ceases to amaze me. Whether it be writing a quick script to automate a task, learning about Artificial Intelligence that can generate music scores or Machine Learning algorithms that can detect or predict Cancer - the field of CS is truly empowering. It's also very important to me that students in High School and even earlier gain the exposure to Computer Science that is so desperately needed in today's technology-driven world.",
+        "Research Interests": "Glycobiology",
+        "Technical Skills": "Human Resources Software"
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Biology Teacher Education, BSLAS",
+        "GPA": 3.64,
+        "About Me": "Hi there! I am a senior at the Georgia Institute of Technology pursuing my Bachelor of Science in Computer Science!",
+        "Research Interests": "Interactive computing",
+        "Technical Skills": "JavaScript"
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Spanish (Teaching), BA",
+        "GPA": 3.63,
+        "About Me": "To me, computer science is a medium through which I can integrate my ideas into the real world. I love working on projects targeted towards a real-world problem. To pursue these passions, I teach myself new languages and technologies to be able to come up with new solutions. I have worked with both mobile and web development using Java, Node, SQL, C++, and many other tools.",
+        "Research Interests": "Learning and Memory",
+        "Technical Skills": "Blockchain"
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Computer Science & Philosophy, BSLAS",
+        "GPA": 3.27,
+        "About Me": "To see some of my projects, be sure to check out my Github as well as my personal website. Thanks for stopping by!",
+        "Research Interests": "Genetics",
+        "Technical Skills": "C"
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Human Development & Family Studies, BS",
+        "GPA": 2.41,
+        "About Me": "Neha is an avid learner and enthusiastic software developer with full-stack development skills and extensive experience in middle-tier and database technologies. Currently seeking a software developer intern role where she can blend her passion for problem-solving and project management with software development.\nSkills: Java, Object-Oriented-Programming, SQL, Python\nInterests: Application Development, Data Science, Artificial Intelligence",
+        "Research Interests": "Protein Structure",
+        "Technical Skills": "Human Resources Software"
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Human Development & Family Studies, BS",
+        "GPA": 3.46,
+        "About Me": "You can contact me at milojkovic.ema@gmail.com!",
+        "Research Interests": "Bioenergetics and Photosynthesis",
+        "Technical Skills": "Cyber Security"
+    },
+    {
+        "Year": "Junior",
+        "Major": "French, BALAS",
+        "GPA": 2.6,
+        "About Me": "Currently, a Computer Science + Chemistry major at the University of Illinois at Urbana Champaign aspiring to break the status quo in the tech industry through extensive research and innovation. Actively looking and willing to take up internships for first-hand experience and exposure.",
+        "Research Interests": "Protein Structure",
+        "Technical Skills": "Mechanical Maintenance"
+    },
+    {
+        "Year": "Junior",
+        "Major": "Learning & Education Studies, BS",
+        "GPA": 3.97,
+        "About Me": "Graduate of the Georgia Institute of Technology with a Bachelor of Science in Biomedical Engineering degree. Interested in working within the engineering and healthcare fields by leveraging technical and leadership skills towards the development and innovation of medical devices. Driven by giving back to the community, and thrives in challenging, motivating, and teamwork-based environments.",
+        "Research Interests": "Theory and algorithms",
+        "Technical Skills": "Loop Mediated Isothermal Amplification (LAMP)"
+    },
+    {
+        "Year": "Junior",
+        "Major": "Global Studies, BALAS",
+        "GPA": 2.57,
+        "About Me": "I am a second-year computer science major at Caltech. A few of my interests are systems programming, computer science theory, and machine learning. I'm interested in opportunities to challenge myself and work on interesting problems.",
+        "Research Interests": "Imaging",
+        "Technical Skills": "scanning electron microscopy"
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Global Studies, BALAS",
+        "GPA": 3.35,
+        "About Me": "Strengths:\nPositivity | Strategic | Developer | Woo | Maximizer",
+        "Research Interests": "Bioenergetics and Photosynthesis",
+        "Technical Skills": "Enzyme-linked immunosorbent assays (ELISA)"
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Computer Science & Philosophy, BSLAS",
+        "GPA": 3.32,
+        "About Me": "CS @ UIUC 2021",
+        "Research Interests": "Archaea",
+        "Technical Skills": "Research"
+    },
+    {
+        "Year": "Junior",
+        "Major": "Statistics, BSLAS",
+        "GPA": 3.89,
+        "About Me": "Highly organized and motivated computer science student looking for internship positions to utilize my prior experience in software engineering and skills including leadership, communication, and interpersonal relations to positively contribute to a company.",
+        "Research Interests": "Learning and Memory",
+        "Technical Skills": "Human Resources Software"
+    },
+    {
+        "Year": "Senior",
+        "Major": "Comparative Literature, BALAS",
+        "GPA": 3.96,
+        "About Me": "To see some of my projects, be sure to check out my Github as well as my personal website. Thanks for stopping by!",
+        "Research Interests": "Endocrinology",
+        "Technical Skills": "Illustrator"
+    },
+    {
+        "Year": "Senior",
+        "Major": "Information Systems, BS",
+        "GPA": 2.97,
+        "About Me": "Contact: priyaarya@gatech.edu",
+        "Research Interests": "Host-Pathogen Interactions",
+        "Technical Skills": "Mammalian cell culture"
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Computer Science, BS-MCS",
+        "GPA": 3.57,
+        "About Me": "I'm passionate about computer engineering. I've earned extensive industry experience in both software and hardware, helping manage projects and develop new technologies for cutting edge VR and AR hardware and content. I've published educational VR software on Steam, and have knowledge of VR best practices, industry standards, and good design. In addition, I've expanded to work on brand-new real-time machine learning technologies, experimental frameworks for mobile and web development, and embedded hardware development. I'm a positive team member, a good collaborator, and a dedicated worker.",
+        "Research Interests": "Toxins",
+        "Technical Skills": "Quantitative Reports"
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Graphic Design, BFA",
+        "GPA": 2.62,
+        "About Me": "Studying CS, Psych, and Computational Biology @ Duke University. I'm a designer interested in technology for social innovation, education, and healthcare | https://vicki-lu.com",
+        "Research Interests": "Protein Structure",
+        "Technical Skills": "Cloud/SaaS Services"
+    },
+    {
+        "Year": "Senior",
+        "Major": "Computer Science & Advertising, BS",
+        "GPA": 3.49,
+        "About Me": "I'm interested in distributed systems, distributed consensus protocols, cloud services infrastructure, information security & cryptography, web development, and many other domains within the field of software engineering. I've been programming since I was 12 years old, and since then I've had the opportunity to work with a wide array of programming languages and frameworks. I've worked extensively in Java, JavaScript/TypeScript, Golang, and I'm also very comfortable with C, Python, and Ruby.",
+        "Research Interests": "Ion Channels",
+        "Technical Skills": "Database Design"
+    },
+    {
+        "Year": "Senior",
+        "Major": "Mathematics & Computer Science, BSLAS",
+        "GPA": 2.39,
+        "About Me": "I am currently studying Computer Science at the University of Illinois at Urbana-Champaign. I have interests in software engineering/development, artificial intelligence, machine learning, and data science.",
+        "Research Interests": "Endocrinology",
+        "Technical Skills": "Microbiology"
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Recreation, Sport & Tourism, BS",
+        "GPA": 3.35,
+        "About Me": "I am a second-year computer science major at Caltech. A few of my interests are systems programming, computer science theory, and machine learning. I'm interested in opportunities to challenge myself and work on interesting problems.",
+        "Research Interests": "Programming languages, formal methods, and software engineering",
+        "Technical Skills": "Compiling Statistics"
+    },
+    {
+        "Year": "Senior",
+        "Major": "French, BALAS",
+        "GPA": 3.24,
+        "About Me": "I am a Computer Science major passionate about innovation and entrepreneurship. Currently, I am looking to launch my own company and gain real-world experience through internships.",
+        "Research Interests": "Host-Pathogen Interactions",
+        "Technical Skills": "Operating systems"
+    }
+]

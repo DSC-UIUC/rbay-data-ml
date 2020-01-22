@@ -1,168 +1,168 @@
 
-    Accountancy, BS
-    Actuarial Science, BSLAS
-    Advertising, BS
-    Aerospace Engineering, BS
-    Aerospace Engineering, BS-MS
-    Aerospace Engineering, BS and Engineering: Energy Systems, MEng
-    African American Studies, BALAS
-    Agricultural & Biological Engineering, BS
-    Agricultural & Biological Engineering, BS and Agricultural & Biological Engineering, BSAG (Dual Degree Program)
-    Agricultural & Biological Engineering, BS and Engineering: Energy Systems, MEng
-    Agricultural & Consumer Economics, BS
-    Agricultural & Consumer Economics, BS and Agricultural & Applied Economics, MAAE
-    Agricultural Communications, BS
-    Agricultural Leadership, Education, & Communications, BS
-    Agricultural Leadership & Science Education, BS
-    Animal Sciences, BS
-    Anthropology, BALAS
-    Architectural Studies, BS
-    Art (see Studio Art)
-    Art & Art History, BFA
-    Art Education, BFA
-    Art Undeclared
-    Asian American Studies, BALAS
-    Astronomy, BSLAS
-    Atmospheric Sciences, BSLAS
-    Biochemistry, BS
-    Bioengineering, BS
-    Biology Teacher Education, BSLAS
-    Chemical Engineering, BS
-    Chemistry, BS
-    Chemistry, BSLAS
-    Civil Engineering, BS
-    Classics, BALAS
-    Communication, BALAS
-    Community Health, BS
-    Comparative Literature, BALAS
-    Computer Engineering, BS
-    Computer Engineering, BS and Electrical & Computer Engineering, MEng
-    Computer Science & Advertising, BS
-    Computer Science & Animal Sciences, BS
-    Computer Science & Anthropology, BSLAS
-    Computer Science & Astronomy, BSLAS
-    Computer Science & Chemistry, BSLAS
-    Computer Science & Crop Sciences, BS
-    Computer Science & Economics, BSLAS
-    Computer Science & Geography & Geographic Information Science, BSLAS
-    Computer Science & Linguistics, BSLAS
-    Computer Science & Music, BS
-    Computer Science & Philosophy, BSLAS
-    Computer Science, BS
-    Computer Science, BS-MCS
-    Computer Science, BS-MS
-    Crafts, BFA
-    Creative Writing, BALAS
-    Crop Sciences, BS
-    Dance, BA
-    Dance, BFA
-    Early Childhood Education, BS
-    Earth, Society, & Environmental Sustainability, BSLAS
-    East Asian Languages & Cultures, BALAS   
-    Econometrics & Quantitative Economics, BSLAS
-    Economics, BALAS
-    Electrical Engineering, BS
-    Electrical Engineering, BS and Electrical & Computer Engineering, MEng
-    Elementary Education, BS
-    Engineering Mechanics, BS
-    Engineering Physics, BS
-    Engineering Physics, BS and Engineering: Energy Systems, MEng
-    English, BALAS
-    Finance, BS
-    Food Science & Human Nutrition, BS
-    French (Teaching), BA
-    French, BALAS
-    Gender & Women's Studies, BALAS
-    Geography & Geographic Information Science, BALAS
-    Geography & Geographic Information Science, BSLAS
-    Geology, BS
-    Geology, BSLAS
-    Germanic Studies, BALAS
-    German (Teaching), BA
-    Global Studies, BALAS
-    Graphic Design, BFA
-    History of Art, BALAS
-    History, BALAS
-    Human Development & Family Studies, BS
-    Individual Plans of Study, BALAS/BSLAS
-    Industrial Design, BFA
-    Industrial Engineering, BS
-    Industrial Engineering, BS and Engineering: Energy Systems, MEng
-    Industrial Engineering, BS-MS
-    Information Sciences, BS
-    Information Systems, BS
-    Innovation, Leadership & Engineering Entrepreneurship, BS (ILEE)
-    Instrumental Music, BMUS
-    Integrative Biology, BSLAS
-    Interdisciplinary Health Sciences, BS
-    Interdisciplinary Studies, BALAS
-    Italian, BALAS
-    Jazz Performance, BMUS
-    Journalism, BS
-    Journalism, BS-MJ
-    Kinesiology, BS
-    Landscape Architecture, BLA
-    Latin (Teaching), BA
-    Latin American Studies, BALAS
-    Latina/Latino Studies, BALAS
-    Learning & Education Studies, BS
-    Linguistics, BALAS
-    Lyric Theatre, BMA
-    Management, BS
-    Marketing, BS
-    Materials Science & Engineering, BS
-    Materials Science & Engineering, BS and Engineering: Energy Systems, MEng
-    Materials Science & Engineering, BS and Materials Engineering, MEng
-    Materials Science & Engineering, BS-MS
-    Mathematics & Computer Science, BSLAS
-    Mathematics, BSLAS
-    Mechanical Engineering, BS
-    Mechanical Engineering, BS-MS
-    Media & Cinema Studies, BS
-    Middle Grades Education, BS
-    Molecular & Cellular Biology, BSLAS
-    Music Composition, BMUS
-    Music Education, BME
-    Music, BA
-    Musicology, BMUS
-    Music-Open Studies, BMUS
-    Natural Resources & Environmental Sciences, BS
-    Nuclear, Plasma, & Radiological Engineering, BS
-    Nuclear, Plasma & Radiological Engineering, BS and Engineering: Energy Systems, MEng
-    Operations Management, BS
-    Philosophy, BALAS
-    Photography, BFA
-    Physics (Engineering), BS
-    Physics (Engineering), BS and Engineering: Energy Systems, MEng
-    Physics, BS (LAS -Specialized Curriculum)
-    Physics, BSLAS (Science & Letters)
-    Political Science, BALAS
-    Portuguese, BALAS
-    Psychology, BSLAS
-    Recreation, Sport & Tourism, BS
-    Religion, BALAS
-    Russian, East European, & Eurasian Studies, BALAS
-    Slavic Studies, BALAS
-    Social Work, BSW
-    Sociology, BALAS
-    Spanish (Teaching), BA
-    Spanish, BALAS
-    Special Education, BS
-    Speech & Hearing Science, BS
-    Statistics & Computer Science, BSLAS
-    Statistics, BSLAS
-    Strategic Business Development Entrepreneurship, BS
-    Studio Art, BASA
-    Studio Art, BFASA
-    Supply Chain Management, BS
-    Systems Engineering & Design, BS
-    Systems Engineering & Design, BS and Engineering: Energy Systems, MEng
-    Teaching - Middle Grades Education, BS
-    Teaching of Biology, BSLAS
-    Teaching of French, BA
-    Teaching of German, BA
-    Teaching of Latin, BA
-    Teaching of Spanish, BA
-    Technical Systems Management, BS
-    Theatre, BFA
-    Urban Studies & Planning, BA
+Accountancy, BS
+Actuarial Science, BSLAS
+Advertising, BS
+Aerospace Engineering, BS
+Aerospace Engineering, BS-MS
+Aerospace Engineering, BS and Engineering: Energy Systems, MEng
+African American Studies, BALAS
+Agricultural & Biological Engineering, BS
+Agricultural & Biological Engineering, BS and Agricultural & Biological Engineering, BSAG (Dual Degree Program)
+Agricultural & Biological Engineering, BS and Engineering: Energy Systems, MEng
+Agricultural & Consumer Economics, BS
+Agricultural & Consumer Economics, BS and Agricultural & Applied Economics, MAAE
+Agricultural Communications, BS
+Agricultural Leadership, Education, & Communications, BS
+Agricultural Leadership & Science Education, BS
+Animal Sciences, BS
+Anthropology, BALAS
+Architectural Studies, BS
+Art (see Studio Art)
+Art & Art History, BFA
+Art Education, BFA
+Art Undeclared
+Asian American Studies, BALAS
+Astronomy, BSLAS
+Atmospheric Sciences, BSLAS
+Biochemistry, BS
+Bioengineering, BS
+Biology Teacher Education, BSLAS
+Chemical Engineering, BS
+Chemistry, BS
+Chemistry, BSLAS
+Civil Engineering, BS
+Classics, BALAS
+Communication, BALAS
+Community Health, BS
+Comparative Literature, BALAS
+Computer Engineering, BS
+Computer Engineering, BS and Electrical & Computer Engineering, MEng
+Computer Science & Advertising, BS
+Computer Science & Animal Sciences, BS
+Computer Science & Anthropology, BSLAS
+Computer Science & Astronomy, BSLAS
+Computer Science & Chemistry, BSLAS
+Computer Science & Crop Sciences, BS
+Computer Science & Economics, BSLAS
+Computer Science & Geography & Geographic Information Science, BSLAS
+Computer Science & Linguistics, BSLAS
+Computer Science & Music, BS
+Computer Science & Philosophy, BSLAS
+Computer Science, BS
+Computer Science, BS-MCS
+Computer Science, BS-MS
+Crafts, BFA
+Creative Writing, BALAS
+Crop Sciences, BS
+Dance, BA
+Dance, BFA
+Early Childhood Education, BS
+Earth, Society, & Environmental Sustainability, BSLAS
+East Asian Languages & Cultures, BALAS
+Econometrics & Quantitative Economics, BSLAS
+Economics, BALAS
+Electrical Engineering, BS
+Electrical Engineering, BS and Electrical & Computer Engineering, MEng
+Elementary Education, BS
+Engineering Mechanics, BS
+Engineering Physics, BS
+Engineering Physics, BS and Engineering: Energy Systems, MEng
+English, BALAS
+Finance, BS
+Food Science & Human Nutrition, BS
+French (Teaching), BA
+French, BALAS
+Gender & Women's Studies, BALAS
+Geography & Geographic Information Science, BALAS
+Geography & Geographic Information Science, BSLAS
+Geology, BS
+Geology, BSLAS
+Germanic Studies, BALAS
+German (Teaching), BA
+Global Studies, BALAS
+Graphic Design, BFA
+History of Art, BALAS
+History, BALAS
+Human Development & Family Studies, BS
+Individual Plans of Study, BALAS/BSLAS
+Industrial Design, BFA
+Industrial Engineering, BS
+Industrial Engineering, BS and Engineering: Energy Systems, MEng
+Industrial Engineering, BS-MS
+Information Sciences, BS
+Information Systems, BS
+Innovation, Leadership & Engineering Entrepreneurship, BS (ILEE)
+Instrumental Music, BMUS
+Integrative Biology, BSLAS
+Interdisciplinary Health Sciences, BS
+Interdisciplinary Studies, BALAS
+Italian, BALAS
+Jazz Performance, BMUS
+Journalism, BS
+Journalism, BS-MJ
+Kinesiology, BS
+Landscape Architecture, BLA
+Latin (Teaching), BA
+Latin American Studies, BALAS
+Latina/Latino Studies, BALAS
+Learning & Education Studies, BS
+Linguistics, BALAS
+Lyric Theatre, BMA
+Management, BS
+Marketing, BS
+Materials Science & Engineering, BS
+Materials Science & Engineering, BS and Engineering: Energy Systems, MEng
+Materials Science & Engineering, BS and Materials Engineering, MEng
+Materials Science & Engineering, BS-MS
+Mathematics & Computer Science, BSLAS
+Mathematics, BSLAS
+Mechanical Engineering, BS
+Mechanical Engineering, BS-MS
+Media & Cinema Studies, BS
+Middle Grades Education, BS
+Molecular & Cellular Biology, BSLAS
+Music Composition, BMUS
+Music Education, BME
+Music, BA
+Musicology, BMUS
+Music-Open Studies, BMUS
+Natural Resources & Environmental Sciences, BS
+Nuclear, Plasma, & Radiological Engineering, BS
+Nuclear, Plasma & Radiological Engineering, BS and Engineering: Energy Systems, MEng
+Operations Management, BS
+Philosophy, BALAS
+Photography, BFA
+Physics (Engineering), BS
+Physics (Engineering), BS and Engineering: Energy Systems, MEng
+Physics, BS (LAS -Specialized Curriculum)
+Physics, BSLAS (Science & Letters)
+Political Science, BALAS
+Portuguese, BALAS
+Psychology, BSLAS
+Recreation, Sport & Tourism, BS
+Religion, BALAS
+Russian, East European, & Eurasian Studies, BALAS
+Slavic Studies, BALAS
+Social Work, BSW
+Sociology, BALAS
+Spanish (Teaching), BA
+Spanish, BALAS
+Special Education, BS
+Speech & Hearing Science, BS
+Statistics & Computer Science, BSLAS
+Statistics, BSLAS
+Strategic Business Development Entrepreneurship, BS
+Studio Art, BASA
+Studio Art, BFASA
+Supply Chain Management, BS
+Systems Engineering & Design, BS
+Systems Engineering & Design, BS and Engineering: Energy Systems, MEng
+Teaching - Middle Grades Education, BS
+Teaching of Biology, BSLAS
+Teaching of French, BA
+Teaching of German, BA
+Teaching of Latin, BA
+Teaching of Spanish, BA
+Technical Systems Management, BS
+Theatre, BFA
+Urban Studies & Planning, BA
