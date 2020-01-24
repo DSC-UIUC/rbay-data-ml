@@ -1,0 +1,102 @@
+Professor Name: Wade Fagen-Ulmschneider
+
+Bio: I believe that world-class education is education worth sharing. Working with students to create quality experiences that they're proud to share, while they master their skills in Data Structures, Data Science, Data Discovery, and Data Visualization.
+
+Email: waf@illinois.edu
+
+Research Areas: Data Analytics, Data Science
+
+Courses Taught: CS 107 (Data Science), CS 225 (Data Structures)
+
+Posting: 
+	⁃	Position: Data Science Intern
+	⁃	Description: I’m looking for students to help me build a data visualization on data for various courses around campus such as a chart for gpa’s between sections for courses here at UIUC. Work will involve programming in Python and libraries such as Numpy, Pandas, and Seaborn. There’s a lot of flexibility in this position so contact me if there are any questions or concerns.
+	⁃	Date Posted: 11/19/2019
+	⁃	Year: Sophomore or higher
+	⁃	Major: Computer Science, Computer Engineering, Mathematics, Physics, etc.
+	⁃	GPA Range: 3.0+
+	⁃	Required Courses: None
+	⁃	Relevant Skills: Programming Experience is very helpful, Data Science, and some Python experience preferred.
+_____________________________________________________________________________
+
+Professor Name: Graham Carl Evans
+
+Bio: I enjoy solving problems in high performance computing, compilers, and love to teach students about systems and programming design.
+
+Email: gcevans@illinois.edu
+
+Research Areas: Compilers, Systems, HPC, Programming Design
+
+Courses Taught: CS 126 (Software Design), CS 225 (Data Structures), CS 241 (Systems Programming)
+
+Posting: 
+	⁃	Position: Research Assistant
+	⁃	Description: I’m looking for a student interested in optimizing some HPC algorithms to solve problems in areas such as Biochemistry and Physics that are otherwise complicated. 
+	⁃	Date Posted: 11/19/2019
+	⁃	Year: Sophomore or higher
+	⁃	Major: Computer Science, Computer Engineering, Mathematics, Physics, etc.
+	⁃	GPA Range: 3.0+
+	⁃	Required Courses: CS 125 or ECE 120, CS 241 or ECE 391
+	⁃	Relevant Skills: It’s really beneficial to be proficient in C and really understand C++ and many of its capabilities.
+_____________________________________________________________________________
+
+Professor Name: Jeff Erickson
+
+Bio: I'm a computational geometer/topologist with more general interests in algorithms, data structures, and lower bounds. I teach mostly large algorithms classes; you might find my course materials useful. From 2013 to 2016, I was an associate department head and chair of the faculty recruiting committee. I am a SafeTOC advocate.
+
+Email: jeffe@illinois.edu
+
+Research Areas: Algorithms, Computational Geometry, Topology
+
+Courses Taught: CS 374 (Algorithms and Models of Computation), CS 473 (Algorithms), CS 598 (Computational Geometry)
+
+Posting: 
+	⁃	Position: Research Assistant
+	⁃	Description: I’m looking for students to analyze some interesting problems in Computational Geometry by finding optimize algorithms as solutions. Assignment may take 2 years and may result in publication(s).
+	⁃	Date Posted: 11/19/2019
+	⁃	Year: Graduate Student (MS or PhD)
+	⁃	Major: Computer Science, Computer Engineering, Mathematics, Physics, etc.
+	⁃	GPA Range: 3.0+
+	⁃	Required Courses: CS 473 (Algorithms), CS 598 (Computational Geometry)
+	⁃	Relevant Skills: Any research experience and Computational Geometry knowledge.
+_____________________________________________________________________________
+
+Professor Name: Mattox Alan Beckman
+
+Bio: I’m a programming languages professor at University of Illinois where I teach CS 421 (Programming Languages). I enjoy teaching and researching techniques and tools for formal verification, software testing, and automated debugging; and models and verification techniques for embedded systems that interact with physical entities.
+
+Email: mattox@illinois.edu
+
+Research Areas: Programming Languages, Formal Methods, and Software Engineering
+
+Courses Taught: CS 421 (Programming Languages)
+
+Posting: 
+	⁃	Position: Research Assistant
+	⁃	Description: I’m looking for students to research techniques and tools for formal verification.
+	⁃	Date Posted: 11/19/2019
+	⁃	Year: Junior or higher
+	⁃	Major: Computer Science, Computer Engineering, Mathematics, Physics, etc.
+	⁃	GPA Range: 3.0+
+	⁃	Required Courses: CS 421 (Programming Languages) or equivalent course
+	⁃	Relevant Skills: Any research and programming experience.
+_____________________________________________________________________________
+Professor Name: Margaret M. Fleck
+
+Bio: My research interests include computational linguistics, computer vision, and programming language tools to support language and vision research. 
+
+Email: mfleck@illinois.edu
+
+Research Areas: Computational Linguistics, Computer Vision, and Programming Languages.
+
+Courses Taught: CS 173 (Discrete Structures), CS 440 (Artificial Intelligence)
+
+Posting: 
+	⁃	Position: Research Assistant
+	⁃	Description: I'm looking for students to work on unsupervised algorithms that learn word boundaries from transcribed speech with me.
+	⁃	Date Posted: 11/19/2019
+	⁃	Year: Sophomore or higher
+	⁃	Major: Computer Science, Computer Engineering, Mathematics, Physics, etc.
+	⁃	GPA Range: 3.0+
+	⁃	Required Courses: CS 446 (Machine Learning) or equivalent experience
+	⁃	Relevant Skills: Any research and programming experience.
