@@ -1,0 +1,2112 @@
+[
+    {
+        "Year": "Freshman",
+        "Major": "Finance, BS",
+        "GPA": 2.96,
+        "About Me": "I'm a Junior at UIUC majoring in Computer Science, interested in startups, venture capital and exploring problems pertaining to Infrastructure, Distributed Systems, Machine Learning and Back-end development.",
+        "Research Interests": [
+            "Cell-Cell Interactions",
+            "Security and privacy",
+            "Archaea",
+            "DNA Biology",
+            "Cell-Matrix Interactions"
+        ],
+        "Technical Skills": [
+            "Hardware Description Language (HDL)",
+            "Encryption"
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Finance, BS",
+        "GPA": 3.59,
+        "About Me": "Currently, a Computer Science + Chemistry major at the University of Illinois at Urbana Champaign aspiring to break the status quo in the tech industry through extensive research and innovation. Actively looking and willing to take up internships for first-hand experience and exposure.",
+        "Research Interests": [
+            "Theory and algorithms",
+            "Archaea",
+            "Cell-Matrix Interactions",
+            "Chromatin Structure",
+            "Host-Pathogen Interactions",
+            "Toxins",
+            "Systems and networking"
+        ],
+        "Technical Skills": [
+            "Acrobat",
+            "Medical Coding",
+            "Statistical analysis",
+            "Risk management",
+            "Cloud/SaaS Services",
+            "Ruby",
+            "Laboratory",
+            "Presenting",
+            "PCR ( Polymerase Chain Reaction) machines"
+        ]
+    },
+    {
+        "Year": "Junior",
+        "Major": "Religion, BALAS",
+        "GPA": 2.55,
+        "About Me": "I'm a current student at the University of Illinois at Urbana-Champaign majoring in Computer Science.",
+        "Research Interests": [
+            "Toxins",
+            "Molecular Evolution ",
+            "Pattern Formation",
+            "Architecture, compilers, and parallel computing",
+            "Scientific computing",
+            "Learning and Memory",
+            "DNA Biology",
+            "Reproductive Biology",
+            "Protein Dynamics",
+            "Regulation of Gene Expression"
+        ],
+        "Technical Skills": [
+            "Logistics",
+            "Data Analytics",
+            "Calculus",
+            "Application Development",
+            "PHP",
+            "Planning",
+            "Isolate and analyze DNA, RNA and protein"
+        ]
+    },
+    {
+        "Year": "Junior",
+        "Major": "Materials Science & Engineering, BS and Engineering: Energy Systems, MEng",
+        "GPA": 3.03,
+        "About Me": "I am a junior majoring in Computer Science at University of Michigan.",
+        "Research Interests": [
+            "Toxins",
+            "Genetics"
+        ],
+        "Technical Skills": [
+            "Logistics",
+            "Dissection",
+            "Functionality",
+            "Query Software",
+            "System testing",
+            "Customer Relationship Management (CRM)",
+            "Patient sample handling techniques",
+            "Algorithms",
+            "Information Security",
+            "Requirements-gathering."
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Spanish, BALAS",
+        "GPA": 3.29,
+        "About Me": "Doing the work I love @ Carnegie Mellon.",
+        "Research Interests": [
+            "Regulation of Gene Expression",
+            "Reproductive Biology",
+            "Interactive computing",
+            "Endocrinology",
+            "Optogenetics",
+            "Development",
+            "Archaea",
+            "Computers and education",
+            "Cell-Matrix Interactions"
+        ],
+        "Technical Skills": [
+            "Modification",
+            "Hardware Description Language (HDL)"
+        ]
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Computer Engineering, BS and Electrical & Computer Engineering, MEng",
+        "GPA": 3.09,
+        "About Me": "Currently, I serve as the secretary of the UIUC Chapter of ACM, the Association for Computing Machinery, which is the largest student chapter in the nation. I'm involved with helping plan events such as Engineering Open House and Reflections|Projections, which are large scale annual events at the university. I also conduct research on the optimization of algorithms in different environments (CPUs vs GPUs), examining the effects on parallel programming on the program's execution. As a consultant at OTCR consulting, I work with talented students analyzing the business and tech strategy of clients. I've formerly held positions as course staff for Software Design Studio and Computer Architecture working with students in code reviews, lab and discussion sections, and office hours.",
+        "Research Interests": [
+            "Archaea",
+            "Membrane Biology",
+            "Programming languages, formal methods, and software engineering",
+            "Architecture, compilers, and parallel computing",
+            "Enzymology",
+            "Protein Structure",
+            "Proteomics",
+            "Bioinformatics",
+            "Neurobiology",
+            "Protein Dynamics"
+        ],
+        "Technical Skills": [
+            "Analytical Skills",
+            "Cloud Services",
+            "Enterprise Resource Planning (ERP) Software",
+            "Photoshop",
+            "Productivity Software"
+        ]
+    },
+    {
+        "Year": "Junior",
+        "Major": "Architectural Studies, BS",
+        "GPA": 2.91,
+        "About Me": "Computer Science Student at the Georgia Institute of Technology concentrating in Media and Intelligence. Looking for internships in the fields of Full Stack Development and Data Science.",
+        "Research Interests": [
+            "Theory and algorithms",
+            "Bioinformatics",
+            "Host-Pathogen Interactions"
+        ],
+        "Technical Skills": [
+            "Unit testing",
+            "Inventory Management",
+            "Blueprint Design",
+            "Mechanical Maintenance",
+            "scientific writing",
+            "Human Resources Software"
+        ]
+    },
+    {
+        "Year": "Senior",
+        "Major": "Molecular & Cellular Biology, BSLAS",
+        "GPA": 2.66,
+        "About Me": "Computer Science student at UIUC. Find out more about me on my website! https://arjunarun.com",
+        "Research Interests": [
+            "Pattern Formation",
+            "Protein Structure",
+            "Virology",
+            "Bioinformatics and computational biology",
+            "Optogenetics",
+            "Learning and Memory",
+            "Scientific computing",
+            "Proteomics",
+            "Imaging",
+            "Computers and education"
+        ],
+        "Technical Skills": [
+            "Patient sample handling techniques"
+        ]
+    },
+    {
+        "Year": "Junior",
+        "Major": "Civil Engineering, BS",
+        "GPA": 3.13,
+        "About Me": "Passionate. Driven. Hard-working.",
+        "Research Interests": [
+            "Scientific computing",
+            "Host-Pathogen Interactions",
+            "Systems and networking",
+            "Microbial Ecology",
+            "Computers and education",
+            "Genetics"
+        ],
+        "Technical Skills": [
+            "Risk management",
+            "Logistics",
+            "Light microscopy",
+            "Documentation",
+            "Modification",
+            "Manufacturing",
+            "Operating systems"
+        ]
+    },
+    {
+        "Year": "Junior",
+        "Major": "East Asian Languages & Cultures, BALAS",
+        "GPA": 2.78,
+        "About Me": "Here's what I've been up to:\n-------------------------------\n* SacHacks 2018 { 11/28/18 }\n* SB Hacks 2019 { 01/11/19 }\n* CruzHacks 2019 { 01/18/19 }\n* LinkedIn Accelerate U { 02/02/19 }\n* Honored at Golden 1 Center for Hackathon Project { 02/10/19 }\n* Capital One Ignite { 03/02/19 }\n* NSBE's 45th Annual Convention { 03/25/19 }\n* Bank of America's Ignite with STEM Forum { 04/01/19 }\n* Twitter #TechProud19 { 06/07/19 }\n* Capital One Engineering Summit { 08/04/19 }\n* Tapia Diversity in Computing Conference { 09/18/19 }\n* Forbes Under 30 Summit { 10/27/19 }",
+        "Research Interests": [
+            "Genomics",
+            "Cell-Cell Interactions",
+            "Imaging",
+            "Synaptic Transmission",
+            "Biofuels",
+            "Reproductive Biology",
+            "Enzymology",
+            "Glycobiology",
+            "Cytoskeleton"
+        ],
+        "Technical Skills": [
+            "Telecommunications",
+            "Python",
+            "Presenting",
+            "Quantitative Reports",
+            "Cost-assessment"
+        ]
+    },
+    {
+        "Year": "Senior",
+        "Major": "Asian American Studies, BALAS",
+        "GPA": 3.79,
+        "About Me": "I am a second-year computer science major at Caltech. A few of my interests are systems programming, computer science theory, and machine learning. I'm interested in opportunities to challenge myself and work on interesting problems.",
+        "Research Interests": [
+            "Microbial Ecology",
+            "Artificial intelligence",
+            "Interactive computing",
+            "Neurobiology",
+            "Synaptic Transmission",
+            "Microbial Physiology",
+            "Computers and education",
+            "DNA Biology",
+            "Chromatin Structure"
+        ],
+        "Technical Skills": [
+            "Cloud Systems Administration",
+            "Systems engineering",
+            "Functionality",
+            "Microsoft Office Certifications",
+            "Blueprint Design",
+            "Artificial Intelligence (AI)"
+        ]
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Computer Engineering, BS",
+        "GPA": 3.86,
+        "About Me": "You can contact me at milojkovic.ema@gmail.com!",
+        "Research Interests": [
+            "Sensory Processing",
+            "Bioenergetics and Photosynthesis",
+            "Drug Discovery"
+        ],
+        "Technical Skills": [
+            "Statistical analysis",
+            "Google Drive",
+            "Architecture",
+            "Medical Billing",
+            "Needs Analysis",
+            "Productivity Software",
+            "Growth of competent cells",
+            "Acrobat"
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Studio Art, BASA",
+        "GPA": 3.44,
+        "About Me": "Software Engineering",
+        "Research Interests": [
+            "Bioinformatics",
+            "Endocrinology",
+            "Protein Synthesis",
+            "Pattern Formation",
+            "Toxins",
+            "Microbial Physiology",
+            "Glycobiology"
+        ],
+        "Technical Skills": [
+            "Medical Billing",
+            "Objective-C",
+            "Documentation",
+            "Cyber Security",
+            "Video Creation",
+            "Patient sample handling techniques",
+            "Google Drive",
+            "Information Management",
+            "Mammalian cell culture",
+            "gel documentation"
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Journalism, BS",
+        "GPA": 2.42,
+        "About Me": "https://github.com/michaellee4",
+        "Research Interests": [
+            "Molecular Immunology",
+            "Computational Biology",
+            "Pattern Formation",
+            "Drug Discovery",
+            "Scientific computing"
+        ],
+        "Technical Skills": [
+            "Database Software",
+            "scientific writing",
+            "CSS",
+            "Antibody testing methods",
+            "Information Management",
+            "Blueprint Design"
+        ]
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Chemistry, BSLAS",
+        "GPA": 2.87,
+        "About Me": "As a consistent member of the Dean\u2019s Honor List, I represent the top 10% of my class. Some of my past experiences involve policy implementation, sales, and human capital management. I am specifically interested in the topics of Public Health, Nutrition, and Behavioral Change, and I look to bring my creativity as well as my ambition to any workplace setting.",
+        "Research Interests": [
+            "Database and information systems",
+            "Ion Channels",
+            "Sensory Processing",
+            "Molecular Immunology",
+            "Microbial Ecology",
+            "Host-Pathogen Interactions"
+        ],
+        "Technical Skills": [
+            "PHP",
+            "Accounting Software",
+            "Big Data",
+            "Inventory Management",
+            "Data processing",
+            "Human Resources Software",
+            "UX Design"
+        ]
+    },
+    {
+        "Year": "Senior",
+        "Major": "Biochemistry, BS",
+        "GPA": 3.96,
+        "About Me": "People don't know what they want until you show it to them.",
+        "Research Interests": [
+            "Pattern Formation",
+            "Computers and education",
+            "Cell-Matrix Interactions",
+            "Microbial Ecology",
+            "Biofuels"
+        ],
+        "Technical Skills": [
+            "Microsoft Office Certifications",
+            "Compiling Statistics",
+            "Cloud Systems Administration",
+            "Artificial Intelligence (AI)",
+            "Replica plating"
+        ]
+    },
+    {
+        "Year": "Senior",
+        "Major": "Computer Science, BS-MCS",
+        "GPA": 2.44,
+        "About Me": "I am a second-year computer science major at Caltech. A few of my interests are systems programming, computer science theory, and machine learning. I'm interested in opportunities to challenge myself and work on interesting problems.",
+        "Research Interests": [
+            "Receptor Biochemistry",
+            "Security and privacy",
+            "Systems and networking",
+            "Protein Synthesis",
+            "Drug Discovery",
+            "Synaptic Transmission"
+        ],
+        "Technical Skills": [
+            "Research",
+            "Needs Analysis",
+            "Java",
+            "Statistical analysis",
+            "Cyber Security",
+            "Modeling",
+            "Wireless Modems/Routers",
+            "scanning electron microscopy",
+            "Cost-assessment",
+            "PCR ( Polymerase Chain Reaction) machines"
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Agricultural & Consumer Economics, BS and Agricultural & Applied Economics, MAAE",
+        "GPA": 3.5,
+        "About Me": "I am currently an undergraduate at Georgia Tech studying computer science. My experience includes mobile and web application development, and machine learning. I am looking to continue to gain further experience in machine learning/artificial intelligence projects.",
+        "Research Interests": [
+            "Toxins",
+            "Chromatin Structure",
+            "Development",
+            "Ion Channels",
+            "Systems and networking"
+        ],
+        "Technical Skills": [
+            "Unit testing",
+            "Project Management",
+            "Patient sample handling techniques",
+            "Accounting Software",
+            "Database Software",
+            "R",
+            "IP Setup",
+            "MS Office",
+            "Analytical Skills"
+        ]
+    },
+    {
+        "Year": "Junior",
+        "Major": "Music-Open Studies, BMUS",
+        "GPA": 3.08,
+        "About Me": "Within technology roles, I have the most experience with backend development, full stack we... see more",
+        "Research Interests": [
+            "Drug Discovery",
+            "Computers and education",
+            "Biofuels",
+            "Database and information systems",
+            "Genetics",
+            "Sensory Processing",
+            "Architecture, compilers, and parallel computing"
+        ],
+        "Technical Skills": [
+            "gel documentation",
+            "Customer Relationship Management (CRM)",
+            "Logistics",
+            "Forecasting",
+            "Telecommunications",
+            "IP Setup",
+            "Statistical Analysis"
+        ]
+    },
+    {
+        "Year": "Junior",
+        "Major": "Music, BA",
+        "GPA": 3.54,
+        "About Me": "You can contact me at milojkovic.ema@gmail.com!",
+        "Research Interests": [
+            "Molecular Immunology",
+            "Enzymology",
+            "Archaea",
+            "Drug Discovery",
+            "Proteomics",
+            "Sensory Processing"
+        ],
+        "Technical Skills": [
+            "MS Office",
+            "Systems engineering"
+        ]
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Linguistics, BALAS",
+        "GPA": 3.32,
+        "About Me": "Aspiring computer engineer attending the University of Illinois. Skilled programmer, researcher, and project manager. Hopes to pursue a career in machine learning and cybernetics.",
+        "Research Interests": [
+            "Reproductive Biology",
+            "Enzymology",
+            "Endocrinology",
+            "Sensory Processing"
+        ],
+        "Technical Skills": [
+            "Photoshop",
+            "ASP.NET",
+            "Wireless Modems/Routers",
+            "Polyacrylamide Gel Electrophoresis",
+            "gel documentation",
+            "R",
+            "Information Management"
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Civil Engineering, BS",
+        "GPA": 2.32,
+        "About Me": "Sanjit holds a B.S. in Computer Systems Engineering from Stanford and an S.M. in Electrical Engineering and Computer Science from MIT.",
+        "Research Interests": [
+            "Bioinformatics",
+            "Cell-Cell Interactions",
+            "Synaptic Transmission",
+            "Regulation of Gene Expression",
+            "Development",
+            "Membrane Biology",
+            "Bioinformatics and computational biology",
+            "Theory and algorithms",
+            "Optogenetics"
+        ],
+        "Technical Skills": [
+            "Video Creation",
+            "Blueprint Design",
+            "Operating systems",
+            "Project Management",
+            "Needs Analysis",
+            "Light microscopy",
+            "Illustrator",
+            "Objective-C",
+            "Query Software",
+            "Database Management"
+        ]
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Religion, BALAS",
+        "GPA": 3.81,
+        "About Me": "Interested in the intersection between business, design & technology with a passion in product & media. I enjoy meeting people and learning new things, so please feel free to reach out if you'd like to chat!",
+        "Research Interests": [
+            "Interactive computing",
+            "Learning and Memory",
+            "Proteomics",
+            "Genomics",
+            "Systems and networking"
+        ],
+        "Technical Skills": [
+            "Modification",
+            "MATLAB"
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Communication, BALAS",
+        "GPA": 3.53,
+        "About Me": "Hello, my name is Anaya Patel and I am a 2nd year at Georgia Tech. I am majoring in Computer Science with concentrations in human-computer interaction and intelligence. I have front-end experience through my internship with Cerner Corporation and am looking for a software engineering internship for summer 2020. I am a dedicated worker who loves to learn and problem solve, and if you have any questions please don't hesitate to email me at apatel672@gatech.edu. Thank you!",
+        "Research Interests": [
+            "Synaptic Transmission",
+            "Computational Biology",
+            "Optogenetics",
+            "Reproductive Biology",
+            "Theory and algorithms"
+        ],
+        "Technical Skills": [
+            "IP Setup",
+            "Client-server architecture",
+            "Photoshop"
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Information Systems, BS",
+        "GPA": 2.95,
+        "About Me": "Hi there! I am a senior at the Georgia Institute of Technology pursuing my Bachelor of Science in Computer Science!",
+        "Research Interests": [
+            "Sensory Processing",
+            "Scientific computing",
+            "Signal Transduction",
+            "Toxins",
+            "Microbial Ecology",
+            "Artificial intelligence"
+        ],
+        "Technical Skills": [
+            "IP Setup",
+            "Patient sample handling techniques"
+        ]
+    },
+    {
+        "Year": "Junior",
+        "Major": "Computer Science & Music, BS",
+        "GPA": 3.51,
+        "About Me": "I am a 4th year Industrial Systems Engineering student at the Georgia Institute of Technology, concentrating in Economics and Financial Systems. I strive to embody a customer-first mindset and believe that my passions, both professionally within the intersection of supply chain and consulting, and holistically, through my diverse array of leadership experiences, fully reflect this.",
+        "Research Interests": [
+            "Bioinformatics",
+            "Computational Biology",
+            "Bioinformatics and computational biology"
+        ],
+        "Technical Skills": [
+            "Java",
+            "Needs Analysis",
+            "Cloud Systems Administration"
+        ]
+    },
+    {
+        "Year": "Junior",
+        "Major": "Portuguese, BALAS",
+        "GPA": 2.43,
+        "About Me": "I am a junior pursuing a dual degree in Computer Science and Economics. My research interests and work experiences revolve around Artificial Intelligence and Machine Learning, specifically Reinforcement Learning, Deep Learning, Natural Language Processing and applications within Computer Vision.",
+        "Research Interests": [
+            "Optogenetics",
+            "Drug Discovery",
+            "Receptor Biochemistry"
+        ],
+        "Technical Skills": [
+            "Microbiology",
+            "Replica plating",
+            "Telecommunications",
+            "Video Creation",
+            "Productivity Software",
+            "Content Management Systems (CMS)."
+        ]
+    },
+    {
+        "Year": "Junior",
+        "Major": "Information Systems, BS",
+        "GPA": 3.56,
+        "About Me": "Background in Computer Science and Statistics.",
+        "Research Interests": [
+            "Bioinformatics and computational biology",
+            "Drug Discovery",
+            "Protein Structure",
+            "Protein Dynamics",
+            "Metabolic Regulation",
+            "Microbial Ecology",
+            "Genetics",
+            "Security and privacy"
+        ],
+        "Technical Skills": [
+            "Antibody testing methods",
+            "ASP.NET",
+            "XML",
+            "HTML",
+            "Agarose Gel Electrophoresis",
+            "Perl",
+            "JavaScript",
+            "Sonography",
+            "Modeling"
+        ]
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Computer Science & Crop Sciences, BS",
+        "GPA": 2.67,
+        "About Me": "Hi! My name is Ayusha, and I am pursuing a degree in Computer Science at the University of Illinois at Urbana-Champaign. I am particularly interested in UI/UX, app development, and product management and am excited about working with technology that bridges the gap between humans and machines.",
+        "Research Interests": [
+            "Membrane Biology"
+        ],
+        "Technical Skills": [
+            "Enterprise Resource Planning (ERP) Software",
+            "Molecular cloning",
+            "Mammalian cell culture",
+            "Ruby",
+            "Presenting",
+            "Database Software",
+            "Systems engineering"
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Computer Science & Geography & Geographic Information Science, BSLAS",
+        "GPA": 3.52,
+        "About Me": "Graduate of the Georgia Institute of Technology with a Bachelor of Science in Biomedical Engineering degree. Interested in working within the engineering and healthcare fields by leveraging technical and leadership skills towards the development and innovation of medical devices. Driven by giving back to the community, and thrives in challenging, motivating, and teamwork-based environments.",
+        "Research Interests": [
+            "Systems and networking"
+        ],
+        "Technical Skills": [
+            "Information Management",
+            "Operating systems",
+            "Human Resources Software",
+            "SQL",
+            "JavaScript"
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Latin (Teaching), BA",
+        "GPA": 2.85,
+        "About Me": "Aspiring computer engineer attending the University of Illinois. Skilled programmer, researcher, and project manager. Hopes to pursue a career in machine learning and cybernetics.",
+        "Research Interests": [
+            "Neurobiology",
+            "Protein-Nucleic Acid Interactions",
+            "Imaging",
+            "Protein Synthesis",
+            "RNA Biology"
+        ],
+        "Technical Skills": [
+            "Data Analytics",
+            "Statistics",
+            "Database Management",
+            "Telecommunications",
+            "Python",
+            "Patient sample handling techniques",
+            "Cloud Computing",
+            "Mechanical Maintenance",
+            "gel electrophoresis"
+        ]
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Geography & Geographic Information Science, BALAS",
+        "GPA": 3.25,
+        "About Me": "I'm passionate about computer engineering. I've earned extensive industry experience in both software and hardware, helping manage projects and develop new technologies for cutting edge VR and AR hardware and content. I've published educational VR software on Steam, and have knowledge of VR best practices, industry standards, and good design. In addition, I've expanded to work on brand-new real-time machine learning technologies, experimental frameworks for mobile and web development, and embedded hardware development. I'm a positive team member, a good collaborator, and a dedicated worker.",
+        "Research Interests": [
+            "Database and information systems",
+            "Cytoskeleton",
+            "Cell-Cell Interactions",
+            "Programming languages, formal methods, and software engineering",
+            "Chromatin Structure"
+        ],
+        "Technical Skills": [
+            "Isolate and analyze DNA, RNA and protein",
+            "Loop Mediated Isothermal Amplification (LAMP)",
+            "R",
+            "Molecular cloning",
+            "MS Office",
+            "Objective-C",
+            "PowerPoint",
+            "Ruby"
+        ]
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Studio Art, BASA",
+        "GPA": 3.21,
+        "About Me": "Hello, my name is Anaya Patel and I am a 2nd year at Georgia Tech. I am majoring in Computer Science with concentrations in human-computer interaction and intelligence. I have front-end experience through my internship with Cerner Corporation and am looking for a software engineering internship for summer 2020. I am a dedicated worker who loves to learn and problem solve, and if you have any questions please don't hesitate to email me at apatel672@gatech.edu. Thank you!",
+        "Research Interests": [
+            "Learning and Memory",
+            "Cell-Cell Interactions",
+            "Proteomics",
+            "Theory and algorithms",
+            "Reproductive Biology",
+            "Enzymology",
+            "Regulation of Gene Expression",
+            "Protein-Nucleic Acid Interactions",
+            "DNA Biology",
+            "Ion Channels"
+        ],
+        "Technical Skills": [
+            "Customer Relationship Management (CRM)",
+            "Database Management",
+            "Research"
+        ]
+    },
+    {
+        "Year": "Senior",
+        "Major": "Interdisciplinary Health Sciences, BS",
+        "GPA": 2.61,
+        "About Me": "\nI got my bachelor\u2019s degree in mathematics and applied mathematics from Zhejiang University. In my junior and senior years, I was a undergraduate research assistant in the group of Computer Graphics in State Key Lab of CAD&CG in Zhejiang University.\n",
+        "Research Interests": [
+            "Programming languages, formal methods, and software engineering",
+            "Glycobiology",
+            "Architecture, compilers, and parallel computing",
+            "Computational Biology",
+            "Security and privacy"
+        ],
+        "Technical Skills": [
+            "Cloud Computing",
+            "scanning electron microscopy",
+            "Calculus",
+            "Visual Basic .NET",
+            "Java",
+            "Replica plating"
+        ]
+    },
+    {
+        "Year": "Senior",
+        "Major": "Teaching of German, BA",
+        "GPA": 3.44,
+        "About Me": "I am currently an undergraduate student at the University of Illinois studying Computer Engineering and I possess experience in technologies such as C/C++, Python, SQL, HTML, CSS, and Java.",
+        "Research Interests": [
+            "Learning and Memory",
+            "Scientific computing",
+            "Cell-Cell Interactions",
+            "Genomics",
+            "Theory and algorithms",
+            "Signal Transduction",
+            "Toxins",
+            "Neurobiology"
+        ],
+        "Technical Skills": [
+            "Modification",
+            "scanning electron microscopy",
+            "Medical Coding",
+            "MATLAB",
+            "Mammalian cell culture",
+            "Enzyme-linked immunosorbent assays (ELISA)",
+            "gel electrophoresis",
+            "R",
+            "ASP.NET"
+        ]
+    },
+    {
+        "Year": "Junior",
+        "Major": "Chemistry, BS",
+        "GPA": 2.42,
+        "About Me": "I am currently interested in a wide array of internship positions such as management consulting in healthcare, strategy and technology consulting, data analytics, project management, healthcare administration, global healthcare analyst, service towards the disabled community, or operations. I am looking to get an understanding of what different paths entail to plan ahead, and try new opportunities!",
+        "Research Interests": [
+            "Scientific computing",
+            "Archaea",
+            "Pattern Formation",
+            "Signal Transduction",
+            "Regulation of Gene Expression",
+            "Database and information systems",
+            "Genetics",
+            "Glycobiology"
+        ],
+        "Technical Skills": [
+            "Python",
+            "Google Drive",
+            "Laboratory",
+            "Unit testing",
+            "Operating systems",
+            "Problem-solving ",
+            "Medical"
+        ]
+    },
+    {
+        "Year": "Junior",
+        "Major": "Germanic Studies, BALAS",
+        "GPA": 3.96,
+        "About Me": "Software Engineering",
+        "Research Interests": [
+            "Computers and education",
+            "Drug Discovery",
+            "Synaptic Transmission",
+            "Enzymology",
+            "Endocrinology",
+            "Toxins",
+            "Security and privacy",
+            "DNA Biology",
+            "Biofuels"
+        ],
+        "Technical Skills": [
+            "Modification",
+            "Cloud/SaaS Services",
+            "Microbiology",
+            "CSS",
+            "Requirements-gathering.",
+            "Medical",
+            "Mammalian cell culture",
+            "Molecular Biology",
+            "Needs Analysis",
+            "Blueprint Design"
+        ]
+    },
+    {
+        "Year": "Junior",
+        "Major": "Natural Resources & Environmental Sciences, BS",
+        "GPA": 3.7,
+        "About Me": "I will be attending GHC '19 through a scholarship with Google. If you are interested in getting to know me and learning about my experiences, feel free to drop me a line!",
+        "Research Interests": [
+            "Scientific computing",
+            "Architecture, compilers, and parallel computing",
+            "Protein Structure",
+            "Programming languages, formal methods, and software engineering"
+        ],
+        "Technical Skills": [
+            "Restriction analysis",
+            "ASP.NET",
+            "Swift",
+            "Ruby",
+            "MS Office",
+            "Cross-platform software",
+            "Microbiology",
+            "Requirements-gathering.",
+            "Medical Billing",
+            "Hardware Verification Tools and Techniques"
+        ]
+    },
+    {
+        "Year": "Junior",
+        "Major": "Nuclear, Plasma & Radiological Engineering, BS and Engineering: Energy Systems, MEng",
+        "GPA": 2.58,
+        "About Me": "Undergraduate at Cornell University studying Policy Analysis & Management, Business, and Resource & Environmental Economics.",
+        "Research Interests": [
+            "Sensory Processing",
+            "Cytoskeleton",
+            "Imaging"
+        ],
+        "Technical Skills": [
+            "Microbiology"
+        ]
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Chemical Engineering, BS",
+        "GPA": 2.59,
+        "About Me": "I am a third-year Computer Science student at Georgia Tech pursuing a specialization in Intelligence and Theory. I just finished working as a robotic process automation developer for Accenture Federal Services and am looking forward to working on my thesis for the Center for Signal and Information Processing this Fall.",
+        "Research Interests": [
+            "RNA Biology",
+            "Signal Transduction"
+        ],
+        "Technical Skills": [
+            "Research",
+            "MATLAB",
+            "Accounting Software",
+            "Laboratory",
+            "HTML",
+            "Objective-C",
+            "Medical Coding",
+            "Application Development"
+        ]
+    },
+    {
+        "Year": "Senior",
+        "Major": "Crop Sciences, BS",
+        "GPA": 3.68,
+        "About Me": "I am currently an undergraduate student at the University of Illinois at Urbana-Champaign pursuing a Bachelor of Science in Computer Science. I am most interested in the applications of computer science in big data, media, space exploration, healthcare, and user interface design. I am passionate about equality, diversity, and inclusion in the world and particularly in the STEM field.",
+        "Research Interests": [
+            "Protein Structure",
+            "Optogenetics",
+            "Ion Channels"
+        ],
+        "Technical Skills": [
+            "Modeling",
+            "Medical Coding"
+        ]
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Computer Science & Animal Sciences, BS",
+        "GPA": 2.88,
+        "About Me": "Hey, it's me Satwik Singh, a senior in Statistics and Computer Science at University of Illinois at Urbana Champaign.",
+        "Research Interests": [
+            "Protein Dynamics",
+            "Protein-Nucleic Acid Interactions",
+            "Host-Pathogen Interactions"
+        ],
+        "Technical Skills": [
+            "Modification",
+            "Big Data",
+            "Risk management",
+            "Modeling",
+            "Antibody testing methods",
+            "Artificial Intelligence (AI)",
+            "Photoshop",
+            "Data Analytics",
+            "Database Software"
+        ]
+    },
+    {
+        "Year": "Junior",
+        "Major": "Music, BA",
+        "GPA": 3.81,
+        "About Me": "Passionate. Driven. Hard-working.",
+        "Research Interests": [
+            "Proteomics",
+            "Virology",
+            "Artificial intelligence",
+            "Host-Pathogen Interactions",
+            "Learning and Memory",
+            "Genetics",
+            "Interactive computing",
+            "Chromatin Structure"
+        ],
+        "Technical Skills": [
+            "Java",
+            "Hardware Verification Tools and Techniques"
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Media & Cinema Studies, BS",
+        "GPA": 2.9,
+        "About Me": "I am currently a 3rd year at Georgia Tech pursuing my BS in Computer Science, with a focus in People and Intelligence. I am looking to gain more technical and professional experience to grow in the industry.",
+        "Research Interests": [
+            "DNA Biology",
+            "Theory and algorithms",
+            "Molecular Evolution ",
+            "Protein-Nucleic Acid Interactions",
+            "Toxins",
+            "Systems and networking",
+            "Learning and Memory",
+            "Architecture, compilers, and parallel computing",
+            "Computational Biology",
+            "Neurobiology"
+        ],
+        "Technical Skills": [
+            "Manufacturing",
+            "Blueprint Design",
+            "Project Management",
+            "Application Development",
+            "Modeling",
+            "Sequence genomes",
+            "Information Management",
+            "ASP.NET",
+            "Inventory Management",
+            "Cloud Computing"
+        ]
+    },
+    {
+        "Year": "Senior",
+        "Major": "Materials Science & Engineering, BS and Engineering: Energy Systems, MEng",
+        "GPA": 3.95,
+        "About Me": "I am an undergraduate at the University of Illinois pursuing a Bachelor of Science in Computer Science.",
+        "Research Interests": [
+            "Architecture, compilers, and parallel computing",
+            "Protein Dynamics",
+            "Neurobiology",
+            "Learning and Memory",
+            "Synaptic Transmission",
+            "Bioenergetics and Photosynthesis",
+            "Receptor Biochemistry"
+        ],
+        "Technical Skills": [
+            "Cell fractionation",
+            "Enzyme-linked immunosorbent assays (ELISA)",
+            "Query Software",
+            "Cloud/SaaS Services",
+            "Structural Analysis",
+            "Calculus",
+            "Blockchain"
+        ]
+    },
+    {
+        "Year": "Senior",
+        "Major": "Philosophy, BALAS",
+        "GPA": 3.13,
+        "About Me": "Hello, my name is Anaya Patel and I am a 2nd year at Georgia Tech. I am majoring in Computer Science with concentrations in human-computer interaction and intelligence. I have front-end experience through my internship with Cerner Corporation and am looking for a software engineering internship for summer 2020. I am a dedicated worker who loves to learn and problem solve, and if you have any questions please don't hesitate to email me at apatel672@gatech.edu. Thank you!",
+        "Research Interests": [
+            "Computational Biology",
+            "Virology"
+        ],
+        "Technical Skills": [
+            "Compiling Statistics",
+            "Project Management",
+            "Modeling",
+            "PowerPoint",
+            "JavaScript",
+            "Video Creation"
+        ]
+    },
+    {
+        "Year": "Senior",
+        "Major": "Systems Engineering & Design, BS",
+        "GPA": 2.65,
+        "About Me": "I am a third-year student at Georgia Tech working towards a BS in Computer Science. I am looking for software development or data science opportunities.",
+        "Research Interests": [
+            "Protein Synthesis",
+            "Endocrinology",
+            "Cell-Cell Interactions",
+            "Interactive computing",
+            "Scientific computing",
+            "Learning and Memory",
+            "Sensory Processing"
+        ],
+        "Technical Skills": [
+            "Application Development",
+            "Big Data",
+            "PowerPoint"
+        ]
+    },
+    {
+        "Year": "Junior",
+        "Major": "Jazz Performance, BMUS",
+        "GPA": 3.19,
+        "About Me": "Feel free to email me at aashia@umich.edu if you would like to learn more about me!",
+        "Research Interests": [
+            "Synaptic Transmission"
+        ],
+        "Technical Skills": [
+            "Medical",
+            "System testing",
+            "Replica plating",
+            "Cloud Systems Administration",
+            "ASP.NET",
+            "Sequence genomes",
+            "Human Resources Software",
+            "Programming Skills",
+            "Planning",
+            "PowerPoint"
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Computer Science & Music, BS",
+        "GPA": 3.47,
+        "About Me": "Studying CS + linguistics at the University of Illinois @ Urbana-Champaign and passionate about product management, SWE, and UI/UX",
+        "Research Interests": [
+            "DNA Biology",
+            "Pattern Formation",
+            "Bioinformatics",
+            "Bioinformatics and computational biology"
+        ],
+        "Technical Skills": [
+            "Content Management Systems (CMS).",
+            "Wireless Modems/Routers"
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Religion, BALAS",
+        "GPA": 3.8,
+        "About Me": "Current college junior with a strong background in scientific research, and a passion for finding innovative solutions to real world problems. Occasional Hip Hop Enthusiast and Poet.",
+        "Research Interests": [
+            "Virology",
+            "Membrane Biology",
+            "Archaea"
+        ],
+        "Technical Skills": [
+            "Isolate and analyze DNA, RNA and protein"
+        ]
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Agricultural & Biological Engineering, BS and Engineering: Energy Systems, MEng",
+        "GPA": 2.53,
+        "About Me": "I have a strong interest in software development, data science, and machine learning. I plan t... see more",
+        "Research Interests": [
+            "Interactive computing",
+            "Molecular Immunology",
+            "Bioinformatics and computational biology",
+            "Biofuels",
+            "Regulation of Gene Expression",
+            "Database and information systems",
+            "Pattern Formation",
+            "Artificial intelligence"
+        ],
+        "Technical Skills": [
+            "HTML",
+            "PHP"
+        ]
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Nuclear, Plasma & Radiological Engineering, BS and Engineering: Energy Systems, MEng",
+        "GPA": 2.74,
+        "About Me": "Let's chat! Email: sherry.hu@duke.edu",
+        "Research Interests": [
+            "Regulation of Gene Expression",
+            "Architecture, compilers, and parallel computing",
+            "Database and information systems",
+            "Metabolic Regulation",
+            "Cell-Matrix Interactions",
+            "Imaging",
+            "Host-Pathogen Interactions",
+            "Biofuels",
+            "Chromatin Structure"
+        ],
+        "Technical Skills": [
+            "C#"
+        ]
+    },
+    {
+        "Year": "Senior",
+        "Major": "Biology Teacher Education, BSLAS",
+        "GPA": 2.3,
+        "About Me": "Bachelor of Science in Computer Science at The University of Texas at Austin.",
+        "Research Interests": [
+            "Pattern Formation",
+            "Protein-Nucleic Acid Interactions",
+            "Sensory Processing",
+            "Protein Synthesis",
+            "Cytoskeleton",
+            "Protein Structure",
+            "Proteomics"
+        ],
+        "Technical Skills": [
+            "WordPress",
+            "Data Analytics",
+            "gel documentation"
+        ]
+    },
+    {
+        "Year": "Senior",
+        "Major": "Engineering Mechanics, BS",
+        "GPA": 2.62,
+        "About Me": "I am a sophomore at the Georgia Institute of Technology majoring in Computer Science with concentrations in Devices and Intelligence looking for Software Engineering Internship roles for Summer 2020.\nMost recently I have started working on a research project - Sensornets. I am working on making a scalable wireless network using TI-MSP432 boards and collecting audio and vibration data for processing in a football stadium.\nI am confident that my background and technical skills combined with my strong work ethic are the best fit for the needs of a Software Engineering Internship role.",
+        "Research Interests": [
+            "RNA Biology",
+            "Interactive computing",
+            "Proteomics",
+            "Archaea",
+            "Pattern Formation",
+            "Host-Pathogen Interactions",
+            "Cell-Matrix Interactions",
+            "Endocrinology",
+            "Optogenetics",
+            "Architecture, compilers, and parallel computing"
+        ],
+        "Technical Skills": [
+            "Calculus",
+            "Restriction enzymes",
+            "Accounting Software",
+            "Analytical Skills",
+            "Needs Analysis",
+            "Molecular Biology",
+            "Logistics"
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Art Education, BFA",
+        "GPA": 3.32,
+        "About Me": "Specialties: Distributed systems, file system consistency, software system optimization, programming languages, open source software, networks",
+        "Research Interests": [
+            "Imaging",
+            "Membrane Biology",
+            "Molecular Evolution ",
+            "Microbial Physiology",
+            "Computational Biology",
+            "Drug Discovery",
+            "Interactive computing"
+        ],
+        "Technical Skills": [
+            "Objective-C",
+            "Isolate and analyze DNA, RNA and protein",
+            "Microsoft Office Certifications",
+            "Blockchain",
+            "Quantitative Reports",
+            "Calculus",
+            "gel electrophoresis",
+            "Cloud Systems Administration",
+            "Blueprint Design",
+            "Content Management Systems (CMS)."
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Teaching of Biology, BSLAS",
+        "GPA": 2.44,
+        "About Me": "In terms of team projects, I am involved mainly in OTCR Consulting. During my most recent project, I worked with BP to create their internal wellness program, a running club. We delivered a website in which employees could enter their races to receive the appropriate insurance benefits as well as a Salesforce platform for all employees to track their races and compete with each other.",
+        "Research Interests": [
+            "Reproductive Biology",
+            "Signal Transduction",
+            "DNA Biology",
+            "Sensory Processing"
+        ],
+        "Technical Skills": [
+            "Python",
+            "XML",
+            "scientific research",
+            "PCR ( Polymerase Chain Reaction) machines",
+            "JavaScript"
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Art Education, BFA",
+        "GPA": 3.52,
+        "About Me": "Sophomore studying Computer Science at the University of Illinois. Passionate at tech, community, design, and marketing.",
+        "Research Interests": [
+            "Computers and education",
+            "Receptor Biochemistry"
+        ],
+        "Technical Skills": [
+            "Functionality",
+            "Customer Relationship Management (CRM)",
+            "HTML",
+            "Telecommunications",
+            "Restriction analysis",
+            "Mammalian cell culture"
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Dance, BFA",
+        "GPA": 2.36,
+        "About Me": "Hi! I am a junior at Yale passionate about building things, solving logical puzzles, questioning defaults, and changing definitions. I'm returning to Google this coming summer as a software engineering intern in the Research and Machine Intelligence division. I'm excited to be on an adventure of ceaseless learning, as I explore boundaries of technology and craft impactful products to better the world.",
+        "Research Interests": [
+            "Learning and Memory",
+            "Molecular Immunology",
+            "Bioinformatics and computational biology"
+        ],
+        "Technical Skills": [
+            "Perl",
+            "Compiling Statistics",
+            "Patient sample handling techniques",
+            "Research",
+            "Mechanical Maintenance",
+            "Modification",
+            "JavaScript",
+            "Sonography"
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Physics, BS (LAS -Specialized Curriculum)",
+        "GPA": 2.44,
+        "About Me": "The products I've personally built revolved around helping people find jobs, finding emotional security, and most recently, building habits with friends.",
+        "Research Interests": [
+            "Bioinformatics and computational biology",
+            "Pattern Formation",
+            "Signal Transduction",
+            "Synaptic Transmission"
+        ],
+        "Technical Skills": [
+            "Modification",
+            "Structural Analysis",
+            "scientific writing",
+            "JavaScript",
+            "Antibody testing methods"
+        ]
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Geography & Geographic Information Science, BALAS",
+        "GPA": 3.76,
+        "About Me": "Interested in the intersection between business, design & technology with a passion in product & media. I enjoy meeting people and learning new things, so please feel free to reach out if you'd like to chat!",
+        "Research Interests": [
+            "Scientific computing"
+        ],
+        "Technical Skills": [
+            "Restriction analysis",
+            "Video Creation",
+            "Statistics",
+            "gel electrophoresis",
+            "Mechanical Maintenance",
+            "Systems engineering",
+            "Restriction enzymes",
+            "Python"
+        ]
+    },
+    {
+        "Year": "Senior",
+        "Major": "Technical Systems Management, BS",
+        "GPA": 3.96,
+        "About Me": "I am a junior majoring in Computer Science at University of Michigan.",
+        "Research Interests": [
+            "Architecture, compilers, and parallel computing"
+        ],
+        "Technical Skills": [
+            "Application Development",
+            "Quantitative Research",
+            "MATLAB",
+            "Architecture",
+            "Restriction enzymes",
+            "Agarose Gel Electrophoresis"
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Classics, BALAS",
+        "GPA": 2.93,
+        "About Me": "I am a fourth year candidate for a Bachelor's degree in Computer Science with a concentration in Media and People and a minor in Industrial Design. I have a passion for design and efficiency and am interested in full-stack development and engineering of human-centered computing systems and consumer-facing technologies.",
+        "Research Interests": [
+            "Membrane Biology",
+            "Computers and education"
+        ],
+        "Technical Skills": [
+            "Laboratory",
+            "UV/Vis spectrophotometry",
+            "System testing",
+            "AJAX",
+            "Project Management"
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Comparative Literature, BALAS",
+        "GPA": 3.8,
+        "About Me": "I'm excited to be joining the Facebook team @ New York post-graduation.\nHappy to connect!",
+        "Research Interests": [
+            "Signal Transduction",
+            "Bioinformatics and computational biology",
+            "Genomics"
+        ],
+        "Technical Skills": [
+            "Agarose Gel Electrophoresis",
+            "Data Analytics",
+            "Programming skills",
+            "Systems engineering",
+            "Statistical Analysis"
+        ]
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Computer Science & Economics, BSLAS",
+        "GPA": 2.66,
+        "About Me": "Currently a junior at Colgate University, studying computer science and mathematical economics. Interested in software engineering and data science.",
+        "Research Interests": [
+            "Reproductive Biology",
+            "Optogenetics",
+            "Neurobiology",
+            "Signal Transduction",
+            "Enzymology",
+            "Architecture, compilers, and parallel computing",
+            "Host-Pathogen Interactions"
+        ],
+        "Technical Skills": [
+            "Customer Relationship Management (CRM)",
+            "PHP",
+            "Content Management Systems (CMS)."
+        ]
+    },
+    {
+        "Year": "Junior",
+        "Major": "Computer Science & Economics, BSLAS",
+        "GPA": 3.55,
+        "About Me": "I am a senior at The Ohio State University pursuing Computer Science and Engineering. During my last software engineering internship, I enjoyed learning about the process of product development. Through my academic and industry research experiences, I have also learned to appreciate tackling the challenges of research. I hope to continue exploring a career that intersects both of these areas. I will be graduating in December 2020.",
+        "Research Interests": [
+            "Toxins",
+            "DNA Biology",
+            "Protein-Nucleic Acid Interactions",
+            "Protein Synthesis",
+            "Protein Structure"
+        ],
+        "Technical Skills": [
+            "Loop Mediated Isothermal Amplification (LAMP)"
+        ]
+    },
+    {
+        "Year": "Senior",
+        "Major": "Architectural Studies, BS",
+        "GPA": 3.28,
+        "About Me": "The products I've personally built revolved around helping people find jobs, finding emotional security, and most recently, building habits with friends.",
+        "Research Interests": [
+            "Biofuels",
+            "Host-Pathogen Interactions",
+            "Genomics",
+            "Architecture, compilers, and parallel computing",
+            "DNA Biology"
+        ],
+        "Technical Skills": [
+            "Quantitative Research",
+            "Database Software",
+            "fluorescence microscopy",
+            "Encryption",
+            "Risk management",
+            "XML",
+            "Data Analytics",
+            "Statistics",
+            "Systems engineering",
+            "Photoshop"
+        ]
+    },
+    {
+        "Year": "Senior",
+        "Major": "Natural Resources & Environmental Sciences, BS",
+        "GPA": 3.12,
+        "About Me": "I am an extremely motivated and dedicated Computer Engineering student at the University of Illinois at Urbana-Champaign with a passion for technology an specialization in the fields of Machine Learning and Algorithms. I am always open to novel and ambitious opportunities.",
+        "Research Interests": [
+            "Bioinformatics",
+            "Genomics",
+            "Artificial intelligence",
+            "Programming languages, formal methods, and software engineering"
+        ],
+        "Technical Skills": [
+            "Hardware Verification Tools and Techniques",
+            "gel electrophoresis",
+            "Enterprise Resource Planning (ERP) Software",
+            "Mechanical Maintenance",
+            "C"
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Innovation, Leadership & Engineering Entrepreneurship, BS (ILEE)",
+        "GPA": 2.85,
+        "About Me": "www.krishdholakia.com",
+        "Research Interests": [
+            "Protein Synthesis",
+            "Glycobiology",
+            "Artificial intelligence",
+            "Systems and networking",
+            "Virology",
+            "Endocrinology"
+        ],
+        "Technical Skills": [
+            "HTML",
+            "Modeling",
+            "Antibody testing methods",
+            "Cloud Services",
+            "SQL",
+            "Quantitative Reports",
+            "Loop Mediated Isothermal Amplification (LAMP)",
+            "UX Design"
+        ]
+    },
+    {
+        "Year": "Senior",
+        "Major": "Agricultural & Biological Engineering, BS and Agricultural & Biological Engineering, BSAG (Dual Degree Program)",
+        "GPA": 3.79,
+        "About Me": "Junior Computer Science student at the University of Michigan",
+        "Research Interests": [
+            "Drug Discovery"
+        ],
+        "Technical Skills": [
+            "Python",
+            "Calculus",
+            "UV/Vis spectrophotometry",
+            "Data processing",
+            "Modeling",
+            "IP Setup",
+            "Medical",
+            "AJAX"
+        ]
+    },
+    {
+        "Year": "Senior",
+        "Major": "Bioengineering, BS",
+        "GPA": 3.91,
+        "About Me": "GitHub: @jenniferyen\nTwitter: @jenyen0309",
+        "Research Interests": [
+            "Biofuels",
+            "Cytoskeleton"
+        ],
+        "Technical Skills": [
+            "Enzyme-linked immunosorbent assays (ELISA)",
+            "Python",
+            "PHP",
+            "Accounting Software"
+        ]
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Strategic Business Development Entrepreneurship, BS",
+        "GPA": 2.98,
+        "About Me": "Interested in AI/ML, architecture, systems, UI/UX, and climate",
+        "Research Interests": [
+            "Drug Discovery",
+            "Interactive computing",
+            "Receptor Biochemistry",
+            "Proteomics",
+            "Endocrinology",
+            "Virology",
+            "Host-Pathogen Interactions",
+            "Protein-Nucleic Acid Interactions",
+            "Regulation of Gene Expression"
+        ],
+        "Technical Skills": [
+            "Encryption",
+            "UX Design"
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Food Science & Human Nutrition, BS",
+        "GPA": 3.16,
+        "About Me": "You see, what I've realized is that I love my work but I'm not satisfied until it's making a tangible impact on what I care about. I know what I want to do and I know what impact I want to cause, I'm just trying to find the link between those nodes.",
+        "Research Interests": [
+            "Regulation of Gene Expression",
+            "Molecular Evolution ",
+            "Molecular Immunology",
+            "Database and information systems",
+            "Virology",
+            "Glycobiology",
+            "Architecture, compilers, and parallel computing",
+            "Enzymology",
+            "Membrane Biology"
+        ],
+        "Technical Skills": [
+            "Molecular Biology",
+            "Application Development",
+            "Algorithms",
+            "Wireless Modems/Routers"
+        ]
+    },
+    {
+        "Year": "Senior",
+        "Major": "Human Development & Family Studies, BS",
+        "GPA": 2.78,
+        "About Me": "Hello there! My name is Annie Tang, and I am a senior at UC Berkeley, who is pursuing her bachelor's degree in Computer Science and is interested in exploring the intersections between health/education with technology.",
+        "Research Interests": [
+            "Toxins",
+            "Microbial Ecology",
+            "Synaptic Transmission",
+            "Computers and education",
+            "Enzymology"
+        ],
+        "Technical Skills": [
+            "Calculus",
+            "PHP",
+            "Query Software",
+            "Medical Billing",
+            "Architecture",
+            "Database Design",
+            "Video Creation",
+            "JavaScript"
+        ]
+    },
+    {
+        "Year": "Senior",
+        "Major": "Communication, BALAS",
+        "GPA": 3.93,
+        "About Me": "I am currently an undergraduate at Georgia Tech studying computer science. My experience includes mobile and web application development, and machine learning. I am looking to continue to gain further experience in machine learning/artificial intelligence projects.",
+        "Research Interests": [
+            "Enzymology",
+            "Biofuels",
+            "Programming languages, formal methods, and software engineering",
+            "Theory and algorithms",
+            "DNA Biology",
+            "Bioinformatics",
+            "Bioinformatics and computational biology",
+            "Host-Pathogen Interactions",
+            "Genomics"
+        ],
+        "Technical Skills": [
+            "Loop Mediated Isothermal Amplification (LAMP)",
+            "Logistics",
+            "Information Management",
+            "Cloud Services",
+            "Analytical Skills"
+        ]
+    },
+    {
+        "Year": "Junior",
+        "Major": "Electrical Engineering, BS and Electrical & Computer Engineering, MEng",
+        "GPA": 3.8,
+        "About Me": "Hello! My name is Sejal K. Parmar, and I am an undergraduate student at the University of Illinois, Urbana-Champaign.\n... see more",
+        "Research Interests": [
+            "Theory and algorithms",
+            "Signal Transduction",
+            "Development",
+            "Cytoskeleton",
+            "Genomics",
+            "Receptor Biochemistry",
+            "Toxins",
+            "Protein Dynamics",
+            "Architecture, compilers, and parallel computing"
+        ],
+        "Technical Skills": [
+            "Database Design",
+            "Loop Mediated Isothermal Amplification (LAMP)",
+            "MATLAB",
+            "scientific writing",
+            "Customer Relationship Management (CRM)"
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Civil Engineering, BS",
+        "GPA": 2.72,
+        "About Me": "Incoming Software Engineering intern @FB / CS 126 Course Assistant / Current Residential Assistant @ University of Illinois Urbana-Champaign",
+        "Research Interests": [
+            "Molecular Immunology",
+            "Genetics",
+            "Theory and algorithms"
+        ],
+        "Technical Skills": [
+            "Cost-assessment",
+            "AJAX",
+            "Google Drive"
+        ]
+    },
+    {
+        "Year": "Junior",
+        "Major": "Agricultural Leadership & Science Education, BS",
+        "GPA": 2.59,
+        "About Me": "Passionate for building unique and socially impactful products. Fast and avid learner who thrives in the collaborative process.",
+        "Research Interests": [
+            "Virology",
+            "Cell-Matrix Interactions",
+            "Protein Dynamics",
+            "Protein Synthesis",
+            "Interactive computing",
+            "Regulation of Gene Expression",
+            "Microbial Ecology",
+            "Receptor Biochemistry"
+        ],
+        "Technical Skills": [
+            "Statistical analysis",
+            "WordPress",
+            "gel documentation"
+        ]
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Classics, BALAS",
+        "GPA": 3.37,
+        "About Me": "As a consistent member of the Dean\u2019s Honor List, I represent the top 10% of my class. Some of my past experiences involve policy implementation, sales, and human capital management. I am specifically interested in the topics of Public Health, Nutrition, and Behavioral Change, and I look to bring my creativity as well as my ambition to any workplace setting.",
+        "Research Interests": [
+            "Database and information systems",
+            "Bioinformatics",
+            "Molecular Evolution ",
+            "Protein Dynamics",
+            "Learning and Memory",
+            "Metabolic Regulation"
+        ],
+        "Technical Skills": [
+            "Agarose Gel Electrophoresis",
+            "Database Design",
+            "Presenting",
+            "Polyacrylamide Gel Electrophoresis",
+            "Big Data"
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Teaching - Middle Grades Education, BS",
+        "GPA": 2.89,
+        "About Me": "On a journey to combine my passions for healthcare and process improvement, my focus is on global healthcare optimization and how to create the best experience possible for all patients, especially those in under privileged situations.",
+        "Research Interests": [
+            "Protein Synthesis",
+            "Scientific computing",
+            "DNA Biology",
+            "Bioinformatics and computational biology",
+            "Computational Biology",
+            "Bioinformatics"
+        ],
+        "Technical Skills": [
+            "Documentation"
+        ]
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Agricultural Communications, BS",
+        "GPA": 3.16,
+        "About Me": "You can contact me at milojkovic.ema@gmail.com!",
+        "Research Interests": [
+            "Database and information systems",
+            "Bioinformatics and computational biology",
+            "Archaea",
+            "Endocrinology"
+        ],
+        "Technical Skills": [
+            "System testing",
+            "Mechanical Maintenance",
+            "UV/Vis spectrophotometry",
+            "Dissection",
+            "Enterprise Resource Planning (ERP) Software",
+            "Light microscopy"
+        ]
+    },
+    {
+        "Year": "Junior",
+        "Major": "Strategic Business Development Entrepreneurship, BS",
+        "GPA": 3.2,
+        "About Me": "You can contact me at milojkovic.ema@gmail.com!",
+        "Research Interests": [
+            "Synaptic Transmission",
+            "Virology",
+            "Computers and education",
+            "Regulation of Gene Expression",
+            "Archaea",
+            "Ion Channels",
+            "Cell-Cell Interactions"
+        ],
+        "Technical Skills": [
+            "Medical Billing"
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Computer Science & Linguistics, BSLAS",
+        "GPA": 2.94,
+        "About Me": "Hey, it's me Satwik Singh, a senior in Statistics and Computer Science at University of Illinois at Urbana Champaign.",
+        "Research Interests": [
+            "Endocrinology"
+        ],
+        "Technical Skills": [
+            "Blotting techniques Ex: Western Blot",
+            "Antibody testing methods",
+            "Application Development",
+            "Agarose Gel Electrophoresis"
+        ]
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Music Composition, BMUS",
+        "GPA": 2.54,
+        "About Me": "To see some of my projects, be sure to check out my Github as well as my personal website. Thanks for stopping by!",
+        "Research Interests": [
+            "Sensory Processing",
+            "Neurobiology",
+            "Endocrinology",
+            "Bioenergetics and Photosynthesis"
+        ],
+        "Technical Skills": [
+            "IP Setup",
+            "Data Mining"
+        ]
+    },
+    {
+        "Year": "Junior",
+        "Major": "Teaching of Latin, BA",
+        "GPA": 3.87,
+        "About Me": "Contact: priyaarya@gatech.edu",
+        "Research Interests": [
+            "Programming languages, formal methods, and software engineering"
+        ],
+        "Technical Skills": [
+            "Cloud Computing",
+            "Problem-solving ",
+            "Cryptography",
+            "Molecular (gene) cloning",
+            "Video Creation",
+            "Unit testing",
+            "Cloud Services",
+            "Architecture"
+        ]
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Journalism, BS",
+        "GPA": 2.97,
+        "About Me": "I am currently a junior at Cornell University majoring in computer science and minoring in business.",
+        "Research Interests": [
+            "Virology",
+            "RNA Biology",
+            "Signal Transduction",
+            "Toxins",
+            "Security and privacy",
+            "Computational Biology",
+            "Theory and algorithms",
+            "Chromatin Structure"
+        ],
+        "Technical Skills": [
+            "Calculating"
+        ]
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Journalism, BS-MJ",
+        "GPA": 2.59,
+        "About Me": "I'm an undergraduate student at Georgia Tech's Scheller College of Business with a concentration in Information Technology Management and a minor in Computer Science through the Denning Technology & Management Program.",
+        "Research Interests": [
+            "Imaging",
+            "Regulation of Gene Expression",
+            "Host-Pathogen Interactions",
+            "Systems and networking",
+            "Theory and algorithms",
+            "Cell-Cell Interactions"
+        ],
+        "Technical Skills": [
+            "Microbiology",
+            "PowerPoint",
+            "fluorescence microscopy",
+            "Modification",
+            "gel electrophoresis",
+            "Numeracy",
+            "C",
+            "Mammalian cell culture",
+            "Blockchain",
+            "Blueprint Design"
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Physics, BSLAS (Science & Letters)",
+        "GPA": 2.67,
+        "About Me": "I'm an undergraduate student at Georgia Tech's Scheller College of Business with a concentration in Information Technology Management and a minor in Computer Science through the Denning Technology & Management Program.",
+        "Research Interests": [
+            "Scientific computing",
+            "Molecular Evolution "
+        ],
+        "Technical Skills": [
+            "MS Office",
+            "Acrobat",
+            "Needs Analysis",
+            "Analytical Skills",
+            "Troubleshooting",
+            "R",
+            "Microsoft Office Certifications",
+            "Artificial Intelligence (AI)"
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Teaching of French, BA",
+        "GPA": 3.57,
+        "About Me": "Background in Computer Science and Statistics.",
+        "Research Interests": [
+            "Bioenergetics and Photosynthesis",
+            "Proteomics",
+            "Glycobiology",
+            "Genetics",
+            "Enzymology",
+            "Endocrinology",
+            "Computational Biology",
+            "DNA Biology",
+            "Metabolic Regulation",
+            "Chromatin Structure"
+        ],
+        "Technical Skills": [
+            "Operating systems",
+            "Ruby"
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Journalism, BS",
+        "GPA": 2.35,
+        "About Me": "Computer science student at Brown University - interested in healthcare tech, ethics and AI, data science, and emerging technologies. Also excited about international experience and cultural diversity.",
+        "Research Interests": [
+            "Drug Discovery",
+            "Ion Channels",
+            "Signal Transduction",
+            "Proteomics"
+        ],
+        "Technical Skills": [
+            "ASP.NET",
+            "Customer Relationship Management (CRM)"
+        ]
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Latin American Studies, BALAS",
+        "GPA": 3.91,
+        "About Me": "Hey, it's me Satwik Singh, a senior in Statistics and Computer Science at University of Illinois at Urbana Champaign.",
+        "Research Interests": [
+            "Drug Discovery",
+            "Protein Dynamics",
+            "Theory and algorithms",
+            "Bioinformatics",
+            "Learning and Memory",
+            "Architecture, compilers, and parallel computing",
+            "Cell-Matrix Interactions",
+            "Neurobiology",
+            "Reproductive Biology"
+        ],
+        "Technical Skills": [
+            "Artificial Intelligence (AI)",
+            "Presenting",
+            "Numeracy",
+            "Query Software",
+            "Ruby"
+        ]
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Management, BS",
+        "GPA": 3.29,
+        "About Me": "Back in 6th grade, we were shown a horrifying and overly dramatic documentary about how the world is going to die and no birds will sing in 70 years. Upon calculation, I realized that I might still be alive then. This earth shattering conclusion set me down a dark windy road that I'm still trying to figure out.",
+        "Research Interests": [
+            "Imaging",
+            "Glycobiology",
+            "Cell-Cell Interactions",
+            "Metabolic Regulation",
+            "Pattern Formation",
+            "Signal Transduction"
+        ],
+        "Technical Skills": [
+            "Antibody testing methods",
+            "scientific research",
+            "Cryptography",
+            "Programming skills",
+            "Molecular (gene) cloning",
+            "PCR ( Polymerase Chain Reaction) machines",
+            "Laboratory",
+            "Patient sample handling techniques",
+            "Information Management"
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Physics (Engineering), BS",
+        "GPA": 2.66,
+        "About Me": "I am a fourth year candidate for a Bachelor's degree in Computer Science with a concentration in Media and People and a minor in Industrial Design. I have a passion for design and efficiency and am interested in full-stack development and engineering of human-centered computing systems and consumer-facing technologies.",
+        "Research Interests": [
+            "Cell-Matrix Interactions",
+            "Security and privacy"
+        ],
+        "Technical Skills": [
+            "Cloud/SaaS Services",
+            "Hardware Verification Tools and Techniques",
+            "Encryption"
+        ]
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Computer Science & Advertising, BS",
+        "GPA": 3.4,
+        "About Me": "Sanjit holds a B.S. in Computer Systems Engineering from Stanford and an S.M. in Electrical Engineering and Computer Science from MIT.",
+        "Research Interests": [
+            "Optogenetics",
+            "Sensory Processing",
+            "Reproductive Biology",
+            "Host-Pathogen Interactions",
+            "Development"
+        ],
+        "Technical Skills": [
+            "JavaScript",
+            "Medical",
+            "Ruby",
+            "Content Management Systems (CMS).",
+            "PowerPoint",
+            "fluorescence microscopy",
+            "Medical Coding",
+            "Project Management",
+            "Python"
+        ]
+    },
+    {
+        "Year": "Senior",
+        "Major": "Spanish, BALAS",
+        "GPA": 3.12,
+        "About Me": "focusing \ud83c\udf03",
+        "Research Interests": [
+            "Sensory Processing",
+            "Proteomics",
+            "Cytoskeleton",
+            "Protein Synthesis",
+            "Security and privacy",
+            "Genomics"
+        ],
+        "Technical Skills": [
+            "Modification",
+            "Quantitative Research",
+            "Manufacturing",
+            "Problem-solving ",
+            "fluorescence microscopy",
+            "Statistical Analysis",
+            "Restriction analysis",
+            "Python",
+            "Planning",
+            "Client-server architecture"
+        ]
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Agricultural & Biological Engineering, BS",
+        "GPA": 3.94,
+        "About Me": "Hello! My name is Sejal K. Parmar, and I am an undergraduate student at the University of Illinois, Urbana-Champaign.\n... see more",
+        "Research Interests": [
+            "Learning and Memory",
+            "Security and privacy",
+            "Programming languages, formal methods, and software engineering"
+        ],
+        "Technical Skills": [
+            "Statistical Analysis",
+            "Artificial Intelligence (AI)",
+            "Planning",
+            "ASP.NET",
+            "Telecommunications",
+            "C"
+        ]
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Dance, BFA",
+        "GPA": 2.4,
+        "About Me": "Hi! My name is Ayusha, and I am pursuing a degree in Computer Science at the University of Illinois at Urbana-Champaign. I am particularly interested in UI/UX, app development, and product management and am excited about working with technology that bridges the gap between humans and machines.",
+        "Research Interests": [
+            "Bioinformatics",
+            "Signal Transduction",
+            "Cytoskeleton"
+        ],
+        "Technical Skills": [
+            "Java",
+            "IP Setup",
+            "Polyacrylamide Gel Electrophoresis",
+            "Objective-C",
+            "Enzyme-linked immunosorbent assays (ELISA)",
+            "Artificial Intelligence (AI)",
+            "Inventory Management",
+            "Data Mining",
+            "Database Design",
+            "Molecular (gene) cloning"
+        ]
+    },
+    {
+        "Year": "Senior",
+        "Major": "Engineering Physics, BS",
+        "GPA": 3.39,
+        "About Me": "I am a third-year student at Georgia Tech working towards a BS in Computer Science. I am looking for software development or data science opportunities.",
+        "Research Interests": [
+            "Protein-Nucleic Acid Interactions",
+            "RNA Biology",
+            "Computational Biology",
+            "Imaging",
+            "Reproductive Biology",
+            "Ion Channels",
+            "Genetics",
+            "Protein Dynamics",
+            "Signal Transduction"
+        ],
+        "Technical Skills": [
+            "Information Security",
+            "PHP",
+            "Light microscopy",
+            "Modification",
+            "Operating systems",
+            "Illustrator",
+            "Algorithms",
+            "Systems engineering"
+        ]
+    },
+    {
+        "Year": "Senior",
+        "Major": "Agricultural Leadership & Science Education, BS",
+        "GPA": 3.17,
+        "About Me": "Feel free to email me at aashia@umich.edu if you would like to learn more about me!",
+        "Research Interests": [
+            "Virology",
+            "Cell-Matrix Interactions",
+            "Host-Pathogen Interactions"
+        ],
+        "Technical Skills": [
+            "PHP",
+            "Compiling Statistics",
+            "Medical Billing",
+            "Quantitative Reports",
+            "fluorescence microscopy",
+            "Mammalian cell culture",
+            "Cyber Security",
+            "Cloud/SaaS Services",
+            "Java",
+            "gel documentation"
+        ]
+    },
+    {
+        "Year": "Freshman",
+        "Major": "Slavic Studies, BALAS",
+        "GPA": 3.06,
+        "About Me": "Feel free to email me at aashia@umich.edu if you would like to learn more about me!",
+        "Research Interests": [
+            "Computational Biology",
+            "Scientific computing"
+        ],
+        "Technical Skills": [
+            "Unit testing",
+            "Data Mining",
+            "Cyber Security",
+            "Manufacturing",
+            "Mammalian cell culture",
+            "Medical Billing",
+            "Statistical Analysis",
+            "Google Drive",
+            "Functionality",
+            "Agarose Gel Electrophoresis"
+        ]
+    },
+    {
+        "Year": "Sophomore",
+        "Major": "Integrative Biology, BSLAS",
+        "GPA": 2.85,
+        "About Me": "I'm passionate about computer engineering. I've earned extensive industry experience in both software and hardware, helping manage projects and develop new technologies for cutting edge VR and AR hardware and content. I've published educational VR software on Steam, and have knowledge of VR best practices, industry standards, and good design. In addition, I've expanded to work on brand-new real-time machine learning technologies, experimental frameworks for mobile and web development, and embedded hardware development. I'm a positive team member, a good collaborator, and a dedicated worker.",
+        "Research Interests": [
+            "Sensory Processing",
+            "Artificial intelligence",
+            "Biofuels"
+        ],
+        "Technical Skills": [
+            "JavaScript",
+            "Manufacturing",
+            "PHP",
+            "Forecasting"
+        ]
+    }
+]
