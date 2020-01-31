@@ -1,0 +1,47 @@
+{
+  "Year": "Freshman",
+  "Major": "Computer Science",
+  "GPA": 4.00,
+  "Coursework": {
+    "Computer Science": [
+      "Introduction to Computer Science",
+      "Software Design",
+      "Discrete Math"
+    ],
+    "Mathematics": [
+      "Calculus",
+      "Linear Algebra",
+      "Differential Equations",
+      "Statistical Analysis",
+      "Probability Theory"
+    ]
+  },
+  "Skills": {
+    "Programming Languages": [
+      "Java",
+      "Python",
+      "C++"
+    ],
+    "Frameworks": [
+      "numpy",
+      "sql",
+      "swing",
+      "openCV"
+    ]
+  },
+  "About Me": "I'm a freshman in Computer Science at UIUC that's enjoys solving problems in Mathematics and Computer Science. I'm interested in learning more about computing and systems.",
+  "Research Interests": {
+    "Computer Science": [
+      "Operating Systems",
+      "Compilers",
+      "High Performance Computing",
+      "Parallel Processing"
+    ],
+    "Mathematics": [
+      "Number Theory",
+      "Numerical Analysis",
+      "Models of Computation",
+      "Automata Theory"
+    ]
+  }
+}
