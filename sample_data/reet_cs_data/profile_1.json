@@ -1,0 +1,46 @@
+{
+  "Year": "Sophomore",
+  "Major": "Computer Science",
+  "GPA": 3.58,
+  "Coursework": {
+    "Computer Science": [
+      "Introduction to Computer Science",
+      "Software Design",
+      "Discrete Math",
+      "Data Structures",
+      "Computer Architecture"
+    ],
+    "Mathematics": [
+      "Calculus",
+      "Linear Algebra",
+      "Differential Equations",
+      "Statistical Analysis",
+      "Probability Theory",
+      "Number Theory"
+    ]
+  },
+  "Skills": {
+    "Programming Languages": [
+      "Java",
+      "Python",
+      "C++",
+      "Ruby"
+    ],
+    "Frameworks": [
+      "numpy",
+      "sql",
+      "swing",
+      "openCV",
+      "OpenFrameworks"
+    ]
+  },
+  "About Me": "I'm a Sophomore in Computer Science at UIUC that enjoys solving problems in both Mathematics and Computer Science. I'm interested in learning more about high performance computing and systems.",
+  "Research Interests": {
+    "Computer Science": [
+      "Operating Systems",
+      "Compilers",
+      "High Performance Computing",
+      "Parallel Processing"
+    ]
+  }
+}

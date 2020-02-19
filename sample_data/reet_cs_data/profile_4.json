@@ -1,0 +1,71 @@
+{
+  "Year": "Junior",
+  "Major": "Computer Science and Linguistics",
+  "GPA": 3.62,
+  "Coursework": {
+    "Computer Science": [
+      "Introduction to Computer Science",
+      "Software Design",
+      "Discrete Math",
+      "Data Structures",
+      "Computer Architecture",
+      "Systems Programming",
+      "Natural Language Processing",
+      "Simulation",
+      "Applied Machine Learning",
+      "Introduction to Algorithms and Models of Computation",
+      "Algorithms",
+      "Distributed Systems",
+      "Operating Systems"
+    ],
+    "Mathematics": [
+      "Calculus",
+      "Linear Algebra",
+      "Statistics for Computer Science",
+      "Probability Theory",
+      "Complex Analysis",
+      "Real Analysis",
+      "Fundamental Mathematics",
+      "Differential Equations",
+      "Linear Programming",
+      "Nonlinear Programming",
+      "Seminar"
+    ]
+  },
+  "Skills": {
+    "Programming Languages": [
+      "Java",
+      "Python",
+      "C++",
+      "R",
+      "Rust",
+      "Go",
+      "FORTRAN"
+      "Javascript",
+      "MATLAB"
+    ],
+    "Frameworks": [
+      "numpy",
+      "pandas",
+      "openCV",
+      "PyTorch",
+      "TensorFlow",
+      "Tableau"
+    ]
+  },
+  "About Me": "I like to think through problems in a structured in logical way, so I can select the best options at each step to get me to my end goal!",
+  "Research Interests": {
+    "Computer Science": [
+      "Natural Language Processing",
+      "Artifical Intelligence",
+      "Robotics",
+      "Optimization",
+      "Signal Processing"
+    ],
+    "Mathematics": [
+      "Tensors",
+      "Stochastic Processes",
+      "Complex Analysis"
+    ]
+  }
+},

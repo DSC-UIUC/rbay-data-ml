@@ -1,0 +1,64 @@
+{
+  "Year": "Junior",
+  "Major": "Computer Science",
+  "GPA": 3.85,
+  "Coursework": {
+    "Computer Science": [
+      "Introduction to Computer Science",
+      "Software Design",
+      "Discrete Math",
+      "Data Structures",
+      "Computer Architecture",
+      "Systems Programming",
+      "Machine Learning",
+      "Introduction to Algorithms and Models of Computation",
+      "Algorithms",
+      "Distributed Systems",
+      "Embedded Systems",
+      "Compilers",
+      "Text Information Systems",
+      "Databases"
+    ],
+    "Mathematics": [
+      "Calculus",
+      "Linear Algebra",
+      "Statistics for Computer Science",
+    ]
+  },
+  "Skills": {
+    "Programming Languages": [
+      "Java",
+      "Python",
+      "C",
+      "CUDA",
+      "C#",
+      "Swift",
+      "Scala",
+      "Javascript",
+      "HTML/CSS"
+    ],
+    "Frameworks": [
+      "numpy",
+      "pandas",
+      "Docker",
+      "Unity",
+      "SQL",
+      "AWS",
+      "Firebase",
+      "Azure"
+      "PyTorch",
+
+    ]
+  },
+  "About Me": "I'm looking to deepen my knowledge about the overhaul and optimization of common processes and techniques used in backend development in the industry",
+  "Research Interests": {
+    "Computer Science": [
+      "Cybersecurity",
+      "Fast Algorithms",
+      "Real Time Systems",
+      "Convex Optimization",
+      "Machine Learning",
+      "Simulation"
+    ]
+  }
+},
