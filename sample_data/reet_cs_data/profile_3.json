@@ -1,0 +1,63 @@
+{
+  "Year": "Senior",
+  "Major": "Computer Science and Statistics",
+  "GPA": 3.90,
+  "Coursework": {
+    "Computer Science": [
+      "Introduction to Computer Science",
+      "Software Design",
+      "Discrete Math",
+      "Data Structures",
+      "Computer Architecture",
+      "Systems Programming",
+      "Introduction to Algorithms and Models of Computation"
+      "Numerical Methods",
+      "Machine Learning",
+      "Data Mining",
+      "Artifical Intelligence",
+      "Computational Photography",
+      "Simulation",
+      "Interactive Computer Graphics"
+    ],
+    "Mathematics": [
+      "Calculus",
+      "Linear Algebra",
+      "Statistical Analysis",
+      "Probability Theory",
+      "Combinatorics",
+      "Risk Analysis"
+    ]
+  },
+  "Skills": {
+    "Programming Languages": [
+      "Java",
+      "Python",
+      "C++",
+      "R",
+      "MATLAB",
+      "C",
+      "ARM"
+    ],
+    "Frameworks": [
+      "numpy",
+      "pandas",
+      "openCV",
+      "Tableau",
+      "PyTorch",
+      "TensorFlow"
+    ]
+  },
+  "About Me": "Hello! I am a senior in computer science looking for potential graduate advisors. I am determined, focus, diligent, and resourceful. I work hard but I also work smart!",
+  "Research Interests": {
+    "Computer Science": [
+      "Operating Systems",
+      "Data Mining",
+      "Machine Learning",
+      "Deep Learning",
+      "Hardware Optimizations",
+      "Verification",
+      "Numerical Analysis",
+      "PDE"
+    ]
+  }
+},

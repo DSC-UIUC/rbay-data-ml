@@ -1,0 +1,62 @@
+{
+  "Year": "Junior",
+  "Major": "Computer Science",
+  "GPA": 3.90,
+  "Coursework": {
+    "Computer Science": [
+      "Introduction to Computer Science",
+      "Software Design",
+      "Discrete Math",
+      "Data Structures",
+      "Computer Architecture",
+      "Systems Programming",
+      "Programming Languages and Compilers",
+      "Machine Learning",
+      "Data Mining",
+      "Compilers",
+      "Virtual Reality"
+    ],
+    "Mathematics": [
+      "Calculus",
+      "Linear Algebra",
+      "Differential Equations",
+      "Statistical Analysis",
+      "Probability Theory",
+      "Combinatorics",
+
+    ]
+  },
+  "Skills": {
+    "Programming Languages": [
+      "Java",
+      "Python",
+      "C++",
+      "Haskell",
+      "Ocaml",
+      "C",
+      "x86",
+      "MIPS"
+    ],
+    "Frameworks": [
+      "numpy",
+      "sql",
+      "swing",
+      "openCV"
+    ]
+  },
+  "About Me": "I'm looking for research, summer internships, or fall co-ops, particularly in compiler construction, fintech, or big data!",
+  "Research Interests": {
+    "Computer Science": [
+      "Operating Systems",
+      "Compilers",
+      "High Performance Computing",
+      "Parallel Processing"
+    ],
+    "Mathematics": [
+      "Number Theory",
+      "Numerical Analysis",
+      "Models of Computation",
+      "Automata Theory"
+    ]
+  }
+},

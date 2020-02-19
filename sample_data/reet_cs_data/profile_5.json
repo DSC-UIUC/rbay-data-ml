@@ -1,0 +1,44 @@
+{
+  "Year": "Sophomore",
+  "Major": "Computer Science",
+  "GPA": 2.98,
+  "Coursework": {
+    "Computer Science": [
+      "Introduction to Computer Science",
+      "Software Design",
+      "Discrete Math",
+      "Data Structures",
+      "Computer Architecture",
+      "Systems Programming",
+    ],
+    "Mathematics": [
+      "Calculus",
+      "Linear Algebra",
+      "Statistics for Computer Science",
+    ]
+  },
+  "Skills": {
+    "Programming Languages": [
+      "Java",
+      "Python",
+      "C++",
+      "MIPS"
+    ],
+    "Frameworks": [
+      "numpy",
+      "Kubernets",
+      "Docker"
+    ]
+  },
+  "About Me": "I'm looking to get into research!",
+  "Research Interests": {
+    "Computer Science": [
+      "Embedded Systems",
+      "Real-Time Systems",
+      "Deep Learning"
+    ],
+    "Mathematics": [
+      "Randomized Algorithms"
+    ]
+  }
+},
