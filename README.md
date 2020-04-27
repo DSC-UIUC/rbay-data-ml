@@ -3,7 +3,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">:mag: Research Bay <strong>Data/ML</strong></h3>
+  <h3 align="center">:mag_right: Research Bay <strong>Data/ML</strong></h3>
 
   <p align="center">
     A web platform for efficiently connecting students to research opportunities and professors
