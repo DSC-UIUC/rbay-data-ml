@@ -1,6 +1,7 @@
+<br />
 <p align="center">
   <a href="https://github.com/DSC-UIUC/research-bay">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/DSC-UIUC/research-bay/blob/master/images/rbay_logo_long.png?raw=true" alt="Logo">
   </a>
 
   <h3 align="center">:mag_right: Research Bay <strong>Data/ML</strong></h3>
