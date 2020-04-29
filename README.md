@@ -62,9 +62,6 @@ along with
 
 These can be installed using a package manager such as pip, or directly from source.
 
-* [Firebase-Admin](https://firebase.google.com)
-* [Google-Cloud](https://cloud.google.com)
-
 The search algorithm depends on the following web service:
 * [Algolia](https://www.algolia.com)
 
@@ -137,6 +134,8 @@ Here are the citations to the papers for where to look for the Wikipedia-trained
 Jey Han Lau and Timothy Baldwin (2016). An Empirical Evaluation of doc2vec with Practical Insights into Document Embedding Generation. In Proceedings of the 1st Workshop on Representation Learning for NLP, 2016.
 
 Quoc Le and Tomas Mikolov (2014). Distributed Representations of Sentences and Documents. In Proceedings of the 31st International Conference on International Conference on Machine Learning, 2014.
+
+
 
 #### Additional Scripts
 
