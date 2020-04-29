@@ -135,6 +135,8 @@ Jey Han Lau and Timothy Baldwin (2016). An Empirical Evaluation of doc2vec with 
 
 Quoc Le and Tomas Mikolov (2014). Distributed Representations of Sentences and Documents. In Proceedings of the 31st International Conference on International Conference on Machine Learning, 2014.
 
+Finally, here is a look at what the recommendations look like to the user:
+<img src="https://raw.githubusercontent.com/DSC-UIUC/rbay-data-ml/master/recommendation_scratch_space/rec_example.png" alt="Logo">
 
 
 #### Additional Scripts
