@@ -111,7 +111,7 @@ So, the entirety of the recommendation system is located in recommendations.py, 
 
 As stated, the entirety of the recommendation generation is located in recommendations.py. First, run the following command to allow interaction with Firebase (without needing a full initialization process): 
 ```bash
-gcloud functions deploy main --runtime python37 --trigger-http --allow-unauthenticated
+gcloud functions deploy recommendations --runtime python37 --trigger-http --allow-unauthenticated
 ```
 Then, you can run this script locally by simply calling
 ```bash
