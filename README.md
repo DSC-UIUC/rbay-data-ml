@@ -59,6 +59,9 @@ along with
 * Firebase-Admin
 * Google-Cloud
 
+The search algorithm depends on the following web service:
+* [Algolia]
+
 Please refer to the Research Bay general setup guide [here](https://github.com/DSC-UIUC/research-bay/blob/master/README.md#getting-started).
 
 ## Documentation
@@ -78,3 +81,5 @@ TODO description, brief technical overview/details, screenshot(s) of relevant pa
 The recommendation system intends
 
 #### Additional Scripts
+
+[Algolia] = https://www.algolia.com
