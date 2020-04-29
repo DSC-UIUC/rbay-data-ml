@@ -35,7 +35,9 @@
 
 ## About Data-ML
 
-This repository contains the code and documentation for Research Bay's Data/ML work, which .... (TODO)
+This repository contains the code and documentation for Research Bay's Data/ML work, which mainly provides the basis for the search system and the
+recommendation system for Research Bay. The code here reads the training model and information from the database to generate recommended postings and 
+profiles for users. Additionally, it handles search functionality by.....
 
 More information about Research Bay as an entire project is available at the [main repository](https://github.com/DSC-UIUC/research-bay).
 
@@ -45,13 +47,23 @@ The Research Bay project is built and maintained by student developers in Develo
 
 ## Getting Started
 
-TODO Getting Started section for Data/ML in main repository, with Algolia and Rec system code
+The recommendation system depends on the following libraries:
+* Gensim
+* NLTK
+* Numpy
+* PyTextRank
+* Smart-Open
+
+along with 
+
+* Firebase-Admin
+* Google-Cloud
 
 Please refer to the Research Bay general setup guide [here](https://github.com/DSC-UIUC/research-bay/blob/master/README.md#getting-started).
 
 ## Documentation
 
-The rest of this README contains the documentation for .... (TODO). Feel free to contact the Research Bay team at dscuiuc2@gmail.com with any questions or concerns.
+The rest of this README contains the documentation for the recommondation system, the search system, and some additional scripts. Feel free to contact the Research Bay team at dscuiuc2@gmail.com with any questions or concerns.
 
 ### Core Features
 
@@ -63,4 +75,6 @@ TODO description, brief technical overview/details, screenshot(s) of relevant pa
 
 #### Recommendation System
 
-TODO description, brief technical overview/details, screenshot(s) of relevant pages
+The recommendation system intends
+
+#### Additional Scripts
