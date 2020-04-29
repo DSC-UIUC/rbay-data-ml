@@ -30,8 +30,8 @@ def main():
 	db = firestore.client()
 
 	
-	#model_name = get_model()
-	model_name = "enwiki_dbow/doc2vec.bin" #exists for local testing 
+	model_name = get_model()
+	#model_name = "enwiki_dbow/doc2vec.bin" #exists for local testing 
 	
 	
 	student_list, professor_list = get_students_and_professors(db)
