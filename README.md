@@ -56,11 +56,16 @@ The recommendation system depends on the following libraries:
 
 along with 
 
-* Firebase-Admin
-* Google-Cloud
+* [Firebase-Admin](https://firebase.google.com)
+* [Google-Cloud](https://cloud.google.com)
 
 The search algorithm depends on the following web service:
 * [Algolia](https://www.algolia.com)
+
+along with 
+
+* [Cloud Firestore](https://cloud.google.com/firestore)
+* [Google-Cloud](https://cloud.google.com)
 
 Please refer to the Research Bay general setup guide [here](https://github.com/DSC-UIUC/research-bay/blob/master/README.md#getting-started).
 
