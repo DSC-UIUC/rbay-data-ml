@@ -1,6 +1,4 @@
 
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_HTML-full"></script>
-
 <br />
 <p align="center">
   <a href="https://github.com/DSC-UIUC/research-bay">
@@ -102,7 +100,7 @@ To accomplish this, we first needed to transform the profile/posting into a set 
 
  Once we have extracted key terms we need to consider the similarity of the sets themselves. Given a set of key phrases A, and a list of sets of other key terms, for each set B in the list, compare the similarity of B with A by taking the sum of the similarity score for each possible pair of phrases (a,b), a in A and b in B, and then normalize by dividing by the number of terms in set B:
 
- 
+ <img src="https://raw.githubusercontent.com/DSC-UIUC/rbay-data-ml/master/recommendation_scratch_space/sim_set_formula.png" alt="Logo">
 
 However, we need a way to actually calculate the similarity between a pair of terms. This is where utilized the Gensim implementation of the Doc2Vec algorithm. On a high level, Doc2Vec aims to create a numeric model of text corpuses - it attempts to embed words into vectors, and paragraphs into vectors as well, in the Distributed Memory of Paragraph Vector implementation, which is what we are utilizing.  It is an unsupervised learning algorithm. Gensim provides an implementation of this algorithm and a multitude of handy functions we can use to call on models trained with their implementation. We called upon a function that computes the cosine similarity - the cosine of the angle between to vectors in the embedded space - between sets of words.
 
