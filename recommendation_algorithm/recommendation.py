@@ -45,7 +45,6 @@ def main():
 	postings, postings_reqs, keywords_to_postings = keyword_extract(posting_list, 2)
 	
 	
-	
 	student_recs = classify(students, students_reqs, model_name, postings, postings_reqs, num_recs)
 	professor_recs = classify(professors, None, model_name, students, None, num_recs)
 	student_prof_recs = classify(students, students_reqs, model_name, professors, None, num_recs)
@@ -218,7 +217,7 @@ def keyword_extract(collection, type_s):
 		student_req_info = []
 		keywords_to_students = dict()
 		for student in collection:
-			cur_keywords = student['coursework']
+			cur_keywords = []
 			cur_reqs = dict()
 
 			cur_reqs['coursework'] = student['coursework']
@@ -236,7 +235,8 @@ def keyword_extract(collection, type_s):
 			cur_reqs['major'] = student['major']
 			cur_reqs['gpa'] = student['gpa']
 			cur_reqs['year'] = student['year']
-
+			if(len(cur_keywords) == 0):
+				cur_keywords.append(student['temp_id'])
 			student_keywords.append(cur_keywords)
 			
 			keywords_to_students[tuple(cur_keywords)] = student['temp_id']
@@ -251,10 +251,14 @@ def keyword_extract(collection, type_s):
 		keywords_to_professors = dict()
 
 		for professor in collection:
+			cur_keywords = []
 			if('coursework' in professor):
 				cur_keywords = professor['coursework']
 			cur_keywords = cur_keywords + professor['research_interests']
 			cur_keywords = cur_keywords + gen_keyword_extract(professor['about_me'])
+
+			if(len(cur_keywords) == 0):
+				cur_keywords.append(professor['temp_id'])
 			professor_keywords.append(cur_keywords)
 			keywords_to_professors[tuple(cur_keywords)] = professor['temp_id']
 			
@@ -279,6 +283,8 @@ def keyword_extract(collection, type_s):
 			if('coursework' in posting['requirements']):
 				cur_reqs['coursework'] = posting['requirements']['coursework']
 
+			if(len(cur_keywords) == 0):
+				cur_keywords.append(posting['temp_id'])
 			posting_keywords.append(cur_keywords)
 			keywords_to_postings[tuple(cur_keywords)] = posting['temp_id']
 			posting_req_info.append(cur_reqs)
