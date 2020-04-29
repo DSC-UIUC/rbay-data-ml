@@ -109,13 +109,9 @@ However, we need a way to actually calculate the similarity between a pair of te
 Of course, we need to text for the algorithm to train on. For this, we originally considered a data set that contained 250,000 computer science related research paper titles and abstracts. However, we found greater accuracy when we considered a model that was trained with the entire text of the English Wikipedia, a much larger dataset, so we selected to use that instead.
 So, the entirety of the recommendation system is located in recommendations.py, where several events occur. There is a call made to Firebase Storage to download the model, and to Firestore to get the current postings and profiles. Key term extraction is performed on each of these postings and profiles. Then, we take the set of students and postings and perform our classification algorithm as described on each posting for each student, and return the top postings for each student. This is repeated for professors to students as well, and then students to professors. Finally, these recommendations are converted into a smaller representation and then written to a collection in the database.
 
-As stated, the entirety of the recommendation generation is located in recommendations.py. First, run the following command to allow interaction with Firebase (without needing a full initialization process): 
+As stated, the entirety of the recommendation generation is located in recommendations.py. Run the following command to allow interaction with Firebase (without needing a full initialization process): 
 ```bash
-gcloud functions deploy recommendations --runtime python37 --trigger-http --allow-unauthenticated
-```
-Then, you can run this script locally by simply calling
-```bash
-python recommendations.py
+gcloud functions deploy main --runtime python37 --trigger-http --allow-unauthenticated
 ```
 Note Python 3 is required.
 
