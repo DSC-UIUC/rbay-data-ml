@@ -80,6 +80,18 @@ along with
 
 These can be installed using a package manager such as pip, or directly from source.
 
+* [Firebase-Admin](https://firebase.google.com)
+* [Google-Cloud](https://cloud.google.com)
+
+The search algorithm depends on the following web service:
+* [Algolia](https://www.algolia.com)
+
+along with 
+
+* [Cloud Firestore](https://cloud.google.com/firestore)
+* [Google-Cloud](https://cloud.google.com)
+
+
 Please refer to the Research Bay general setup guide [here](https://github.com/DSC-UIUC/research-bay/blob/master/README.md#getting-started).
 
 ## Documentation
@@ -114,3 +126,4 @@ Of course, we need to text for the algorithm to train on. For this, we originall
 So, the entirety of the recommendation system is located in recommendations.py, where several events occur. There is a call made to Firebase Storage to download the model, and to Firestore to get the current postings and profiles. Key term extraction is performed on each of these postings and profiles. Then, we take the set of students and postings and perform our classification algorithm as described on each posting for each student, and return the top postings for each student. This is repeated for professors to students as well, and then students to professors. Finally, these recommendations are converted into a smaller representation and then written to a collection in the database.
 
 #### Additional Scripts
+
