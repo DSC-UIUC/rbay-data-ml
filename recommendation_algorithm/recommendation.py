@@ -30,8 +30,8 @@ def main():
 	db = firestore.client()
 
 	
-	model_name = get_model()
-	#model_name = "enwiki_dbow/doc2vec.bin" //exists for local testing 
+	#model_name = get_model()
+	model_name = "enwiki_dbow/doc2vec.bin" #exists for local testing 
 	
 	
 	student_list, professor_list = get_students_and_professors(db)
@@ -290,19 +290,19 @@ def write_recs(recs_list, type_o, keywords_to_students, keywords_to_professors, 
 		for student in recs_list:
 			student_id = keywords_to_students[tuple(student)]
 			rec_id_list = [keywords_to_postings[tuple(rec)] for rec in recs_list[student]]
-			ref = db.collection('recommendations').document(student_id).set({"posting_recommendations":rec_id_list})
-			ref = db.collection('recommendations').document(student_id).set({"profile_recommendations":[]}, merge=True)
+			ref = db.collection('recommendations').document(student_id).set({"postings":rec_id_list})
+			ref = db.collection('recommendations').document(student_id).set({"profiles":[]}, merge=True)
 	elif(type_o == 1):
 		for professor in recs_list:
 			professor_id = keywords_to_professors[tuple(professor)]
 			rec_id_list = [keywords_to_students[tuple(rec)] for rec in recs_list[professor]]
-			ref = db.collection('recommendations').document(professor_id).set({"profile_recommendations":rec_id_list})
-			ref = db.collection('recommendations').document(professor_id).set({"posting_recommendations":[]}, merge=True)
+			ref = db.collection('recommendations').document(professor_id).set({"profiles":rec_id_list})
+			ref = db.collection('recommendations').document(professor_id).set({"postings":[]}, merge=True)
 	else:
 		for student in recs_list:
 			student_id = keywords_to_students[tuple(student)]
 			rec_id_list = [keywords_to_professors[tuple(rec)] for rec in recs_list[student]]
-			ref = db.collection('recommendations').document(student_id).set({"profile_recommendations":rec_id_list},merge=True)
+			ref = db.collection('recommendations').document(student_id).set({"profiles":rec_id_list},merge=True)
 
 def gen_keyword_extract(text):
 	nlp = spacy.load("en_core_web_sm")
