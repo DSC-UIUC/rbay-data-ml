@@ -1,0 +1,11 @@
+# Function dependencies, for example:
+# package>=version
+gensim>=3.8.0
+nltk>= 3.4.5
+numpy>=1.18.1
+smart_open>=1.11.1
+firebase
+gcloud
+spacy
+firebase_admin
+pytextrank
