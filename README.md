@@ -1,20 +1,4 @@
-<style TYPE="text/css">
-code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
-</style>
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-    tex2jax: {
-        inlineMath: [['$','$'], ['\\(','\\)']],
-        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'] // removed 'code' entry
-    }
-});
-MathJax.Hub.Queue(function() {
-    var all = MathJax.Hub.getAllJax(), i;
-    for(i = 0; i < all.length; i += 1) {
-        all[i].SourceElement().parentNode.className += ' has-jax';
-    }
-});
-</script>
+
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_HTML-full"></script>
 
 <br />
@@ -118,7 +102,7 @@ To accomplish this, we first needed to transform the profile/posting into a set 
 
  Once we have extracted key terms we need to consider the similarity of the sets themselves. Given a set of key phrases A, and a list of sets of other key terms, for each set B in the list, compare the similarity of B with A by taking the sum of the similarity score for each possible pair of phrases (a,b), a in A and b in B, and then normalize by dividing by the number of terms in set B:
 
- $sim(A,B) = \frac{\sum_{a \in A} \sum_{b \in B} sim(a,b)}{|B|}$
+ 
 
 However, we need a way to actually calculate the similarity between a pair of terms. This is where utilized the Gensim implementation of the Doc2Vec algorithm. On a high level, Doc2Vec aims to create a numeric model of text corpuses - it attempts to embed words into vectors, and paragraphs into vectors as well, in the Distributed Memory of Paragraph Vector implementation, which is what we are utilizing.  It is an unsupervised learning algorithm. Gensim provides an implementation of this algorithm and a multitude of handy functions we can use to call on models trained with their implementation. We called upon a function that computes the cosine similarity - the cosine of the angle between to vectors in the embedded space - between sets of words.
 
