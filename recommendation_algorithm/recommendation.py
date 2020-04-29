@@ -22,7 +22,6 @@ import nltk
 from nltk.corpus import stopwords
 
 
-#complete
 def main():
 	nltk.download('punkt')
 	num_recs = 3
@@ -32,7 +31,7 @@ def main():
 
 	
 	model_name = get_model()
-
+	#model_name = "enwiki_dbow/doc2vec.bin" //exists for local testing 
 	
 	
 	student_list, professor_list = get_students_and_professors(db)
@@ -49,10 +48,12 @@ def main():
 	
 	student_recs = classify(students, students_reqs, model_name, postings, postings_reqs, num_recs)
 	professor_recs = classify(professors, None, model_name, students, None, num_recs)
+	student_prof_recs = classify(students, students_reqs, model_name, professors, None, num_recs)
 	
 	
-	write_recs(student_recs, True, keywords_to_students, None, keywords_to_postings,db)
-	write_recs(professor_recs, False, keywords_to_students, keywords_to_professors, None,db)	
+	write_recs(student_recs, 0, keywords_to_students, None, keywords_to_postings,db)
+	write_recs(professor_recs, 1, keywords_to_students, keywords_to_professors, None,db)
+	write_recs(student_prof_recs, 2, keywords_to_students, keywords_to_professors, None, db)	
 
 	
 
@@ -134,7 +135,7 @@ def classify(to_classify, to_classify_reqs, model_name, being_classify, being_cl
 		
 	return ret_val
 
-#done
+
 def save_results(classify_results,output_pathname):
 	with open(output_pathname, "w") as f:
 		for key in classify_results:
@@ -285,35 +286,23 @@ def keyword_extract(collection, type_s):
 		return posting_keywords, posting_req_info, keywords_to_postings
 
 def write_recs(recs_list, type_o, keywords_to_students, keywords_to_professors, keywords_to_postings, db):
-	if(type_o):
+	if(type_o == 0):
 		for student in recs_list:
 			student_id = keywords_to_students[tuple(student)]
-			rec_id_list = []
-			idx = 1
-			for rec in recs_list[student]:
-				rec_id = keywords_to_postings[tuple(rec)]
-				ref = db.collection('recommendations').document(student_id)
-				rec_str = 'recommendation' + str(idx)
-				if(idx == 1):
-					ref.set({rec_str:rec_id})
-				else:
-					ref.set({rec_str:rec_id}, merge=True)
-				idx = idx + 1
-	else:
+			rec_id_list = [keywords_to_postings[tuple(rec)] for rec in recs_list[student]]
+			ref = db.collection('recommendations').document(student_id).set({"posting_recommendations":rec_id_list})
+			ref = db.collection('recommendations').document(student_id).set({"profile_recommendations":[]}, merge=True)
+	elif(type_o == 1):
 		for professor in recs_list:
 			professor_id = keywords_to_professors[tuple(professor)]
-			rec_id_list = []
-			idx = 1
-			for rec in recs_list[professor]:
-				rec_id = keywords_to_students[tuple(rec)]
-				ref = db.collection('recommendations').document(professor_id)
-				rec_str = 'recommendation' + str(idx)
-				if(idx == 1):
-					ref.set({rec_str:rec_id})
-				else:
-					ref.set({rec_str:rec_id}, merge=True)
-				idx = idx + 1
-	
+			rec_id_list = [keywords_to_students[tuple(rec)] for rec in recs_list[professor]]
+			ref = db.collection('recommendations').document(professor_id).set({"profile_recommendations":rec_id_list})
+			ref = db.collection('recommendations').document(professor_id).set({"posting_recommendations":[]}, merge=True)
+	else:
+		for student in recs_list:
+			student_id = keywords_to_students[tuple(student)]
+			rec_id_list = [keywords_to_professors[tuple(rec)] for rec in recs_list[student]]
+			ref = db.collection('recommendations').document(student_id).set({"profile_recommendations":rec_id_list},merge=True)
 
 def gen_keyword_extract(text):
 	nlp = spacy.load("en_core_web_sm")
@@ -345,6 +334,6 @@ def req_check(student, posting):
 					return False
 		return True
 
+
 if __name__ == '__main__':
 	main()
-
