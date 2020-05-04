@@ -89,6 +89,10 @@ In order to build a fully functional search algorithm, we first had to figure ou
 
 Next, we added two cloud functions that updated the indices for our postings and profiles collection in Algolia. Once our data was indexed, we created a cloud function that used Algolia’s API to call a search function that returned the responses given our queries. However, we found that some of the data Algolia returned had unnecessary fields. To fix this, we created our own javascript objects and passed in the data that was deemed useful to us and returned that to the frontend instead. In doing so, our cloud functions provided an extra layer of abstraction allowing the framework as a whole to be seamless.
 
+Here is a demo for the search engine in Research Bay:
+
+![](searchdemo.gif)
+
 
 #### Recommendation System
 
